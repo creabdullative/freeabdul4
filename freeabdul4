@@ -1,0 +1,4379 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+
+	<title>Oyun Event - Metin2 Türkiye</title>
+
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:site_name" content="Metin2 Türkiye">
+
+<!-- Stylesheets -->
+	<link href='//fonts.googleapis.com/css?family=PT+Sans:400,300,600' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="https://board.tr.metin2.gameforge.com/wcf/style/style-8.css?m=1678044639">
+
+<script>
+	var SID_ARG_2ND	= '';
+	var WCF_PATH = 'https://board.tr.metin2.gameforge.com/wcf/';
+	var WSC_API_URL = 'https://board.tr.metin2.gameforge.com/';
+	var SECURITY_TOKEN = '67c0576479ed958ed0d826e5b5ec591fbed0d3e9';
+	var LANGUAGE_ID = 2;
+	var LANGUAGE_USE_INFORMAL_VARIANT = false;
+	var TIME_NOW = 1688042747;
+	var LAST_UPDATE_TIME = 1655892401;
+	var URL_LEGACY_MODE = false;
+	var ENABLE_DEBUG_MODE = false;
+	var ENABLE_DEVELOPER_TOOLS = false;
+	var WSC_API_VERSION = 2018;
+
+	</script>
+
+<script src="https://board.tr.metin2.gameforge.com/wcf/js/WoltLabSuite.Core.min.js?v=1655892401"></script>
+<script>
+requirejs.config({
+	baseUrl: 'https://board.tr.metin2.gameforge.com/wcf/js', 
+	urlArgs: 't=1655892401'
+
+});
+
+window.addEventListener('pageshow', function(event) {
+	if (event.persisted) {
+		window.location.reload();
+	}
+});
+
+</script>
+<noscript>
+	<style>
+		.jsOnly {
+			display: none !important;
+		}
+
+		.noJsOnly {
+			display: block !important;
+		}
+	</style>
+</noscript>
+
+<script src="https://board.tr.metin2.gameforge.com/wcf/js/WoltLabSuite.Forum.tiny.min.js?v=1655892401"></script>
+<!-- Icons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://board.tr.metin2.gameforge.com/wcf/images/favicon/8.apple-touch-icon.png">
+<link rel="manifest" href="https://board.tr.metin2.gameforge.com/wcf/images/favicon/8.manifest.json">
+<link rel="shortcut icon" href="https://board.tr.metin2.gameforge.com/wcf/images/favicon/8.favicon.ico">
+<meta name="msapplication-config" content="https://board.tr.metin2.gameforge.com/wcf/images/favicon/8.browserconfig.xml">
+<meta name="theme-color" content="rgba(58, 109, 156, 0)">
+
+<link rel="canonical" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/">
+
+									<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://board.tr.metin2.gameforge.com/index.php?board-feed/688/">
+
+
+					<link rel="next" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=2">
+						</head>
+
+<body id="tpl_wbb_board"
+	itemscope itemtype="http://schema.org/WebPage" itemid="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/"	data-template="board" data-application="wbb" data-page-id="45" data-page-identifier="com.woltlab.wbb.Board"	class="">
+
+<a id="top"></a>
+
+<div id="pageContainer" class="pageContainer">
+
+
+	<div id="pageHeaderContainer" class="pageHeaderContainer">
+	<header id="pageHeader" class="pageHeader">
+		<div id="pageHeaderPanel" class="pageHeaderPanel">
+			<div class="layoutBoundary">
+				<div class="box mainMenu" data-box-identifier="com.woltlab.wcf.MainMenu">
+
+
+	<div class="boxContent">
+		<nav>
+	<ol class="boxMenu">
+
+
+					<li class="" data-identifier="com.woltlab.wcf.generic19">
+				<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?legal-links/" class="boxMenuLink">
+					<span class="boxMenuLinkTitle">Yasal Uyarılar</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic16">
+				<a href="https://discordapp.com/invite/metin2" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">💬 Discord 💬</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic17">
+				<a href="https://metin2.support.gameforge.com/index.php" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Destek Sistemi (Ticket)</span>
+									</a>
+
+				</li>					
+									<li class="active boxMenuHasChildren" data-identifier="com.woltlab.wbb.BoardList">
+				<a href="https://board.tr.metin2.gameforge.com/" class="boxMenuLink">
+					<span class="boxMenuLinkTitle">Forum</span>
+									</a>
+
+				<ol class="boxMenuDepth1">					
+									<li class="" data-identifier="com.woltlab.wcf.Dashboard">
+				<a href="https://board.tr.metin2.gameforge.com/wcf/" class="boxMenuLink">
+					<span class="boxMenuLinkTitle">Son Konular</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wbb.UnresolvedThreadList">
+				<a href="https://board.tr.metin2.gameforge.com/index.php?unresolved-thread-list/" class="boxMenuLink">
+					<span class="boxMenuLinkTitle">Tamamlanmamış Konular</span>
+									</a>
+
+				</li>					
+									</ol></li>									<li class="" data-identifier="com.woltlab.wcf.generic20">
+				<a href="https://gameforge.com/tr-TR/browser-games/browser-oyunlari/?origin=forums" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Browser oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic21">
+				<a href="https://gameforge.com/tr-TR/mmorpg/?origin=forums" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">MMORPG</span>
+									</a>
+
+				</li>					
+									<li class=" boxMenuHasChildren" data-identifier="com.woltlab.wcf.generic22">
+				<a href="https://gameforge.com/tr-TR/littlegames/?origin=forums" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Ücretsiz oyunlar</span>
+									</a>
+
+				<ol class="boxMenuDepth1">					
+									<li class="" data-identifier="com.woltlab.wcf.generic23">
+				<a href="https://gameforge.com/tr-TR/littlegames/yilan-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Yılan oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic24">
+				<a href="https://gameforge.com/tr-TR/littlegames/kizlar-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Kızlar oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic25">
+				<a href="https://gameforge.com/tr-TR/littlegames/zeka-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Zeka Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic26">
+				<a href="https://gameforge.com/tr-TR/littlegames/kelime-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Kelime oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic27">
+				<a href="https://gameforge.com/tr-TR/littlegames/io-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">.io Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic28">
+				<a href="https://gameforge.com/tr-TR/littlegames/top-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Top oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic29">
+				<a href="https://gameforge.com/tr-TR/littlegames/futbol-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Futbol oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic30">
+				<a href="https://gameforge.com/tr-TR/littlegames/giydirme-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Giydirme Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic31">
+				<a href="https://gameforge.com/tr-TR/littlegames/yeni-oyunlar/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Yeni Oyunlar</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic32">
+				<a href="https://gameforge.com/tr-TR/littlegames/zombiler-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Zombi Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic33">
+				<a href="https://gameforge.com/tr-TR/littlegames/yarisma-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Yarışma Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic34">
+				<a href="https://gameforge.com/tr-TR/littlegames/yaris-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Yarış oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic35">
+				<a href="https://gameforge.com/tr-TR/littlegames/erkek-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Erkek Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic36">
+				<a href="https://gameforge.com/tr-TR/littlegames/pasta-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Pasta Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic37">
+				<a href="https://gameforge.com/tr-TR/littlegames/asker-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Asker oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic38">
+				<a href="https://gameforge.com/tr-TR/littlegames/dovus-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Dövüş Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic39">
+				<a href="https://gameforge.com/tr-TR/littlegames/polis-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Polis oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic40">
+				<a href="https://gameforge.com/tr-TR/littlegames/bulmaca-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Bulmaca Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic41">
+				<a href="https://gameforge.com/tr-TR/littlegames/aksiyon-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Aksiyon Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic42">
+				<a href="https://gameforge.com/tr-TR/littlegames/yapboz-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Yapboz Oyunları</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic43">
+				<a href="https://gameforge.com/tr-TR/littlegames/makyaj-oyunlari/" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Makyaj Oyunları</span>
+									</a>
+
+				</li>					
+									</ol></li>									<li class=" boxMenuHasChildren" data-identifier="com.woltlab.wcf.generic44">
+				<a href="https://gameforge.com/en-US/gmag/?origin=forums" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">GMag</span>
+									</a>
+
+				<ol class="boxMenuDepth1">					
+									<li class="" data-identifier="com.woltlab.wcf.generic45">
+				<a href="https://gameforge.com/en-US/gmag/video-games/?origin=forums" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Video Games</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic46">
+				<a href="https://gameforge.com/en-US/gmag/movies/?origin=forums" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Movies</span>
+									</a>
+
+				</li>					
+									<li class="" data-identifier="com.woltlab.wcf.generic47">
+				<a href="https://gameforge.com/en-US/gmag/series/?origin=forums" class="boxMenuLink" rel="nofollow" target="_blank">
+					<span class="boxMenuLinkTitle">Series</span>
+									</a>
+
+				</li>					
+									</ol></li>											
+
+	</ol>
+</nav>	</div>
+</div>				
+				<nav id="topMenu" class="userPanel">
+
+	<ul class="userPanelItems">
+									<li id="pageLanguageContainer">
+					</li>
+										<!-- login box -->
+				<li id="userLogin">
+					<a class="loginLink" href="https://board.tr.metin2.gameforge.com/wcf/index.php?login/">Login or register</a>
+					<div id="loginForm" class="loginForm" style="display: none">
+						<form method="post" action="https://board.tr.metin2.gameforge.com/wcf/index.php?login/">
+
+															<section class="section loginFormThirdPartyLogin">
+									<h2 class="sectionTitle">Gameforge Login</h2>
+
+									<dl>
+										<dt></dt>
+										<dd>
+											<ul class="buttonList smallButtons" style="justify-content: center;">
+												<li id="GameforgeAuth" class="GameforgeAuth">									    
+													        <a href="https://board.tr.metin2.gameforge.com/wcf/index.php?gameforge-auth/">
+													            <img src="https://board.tr.metin2.gameforge.com/wcf//images/gameforge/GF.png"/>            
+													        </a>									    
+													</li>
+											</ul>
+										</dd>
+									</dl>
+								</section>
+
+
+														<section class="section loginFormRegister">
+								<h2 class="sectionTitle">Register</h2>
+
+								<p>Don’t have an account yet? Register yourself now and be a part of our community!</p>
+
+								<div class="userLoginButtons">									
+									<a href="https://gameforge.com/sign-up" target="_blank" class="button loginFormRegisterButton">REGISTER GAMEFORGE</a>
+								</div>
+							</section>
+
+							<section class="section loginFormLogin">
+								<h2 class="sectionTitle">Login</h2>
+
+								<dl>
+									<dt><label for="username">Username or Email Address</label></dt>
+									<dd>
+										<input type="text" id="username" name="username" value="" required class="long jsDialogAutoFocus">
+									</dd>
+								</dl>
+
+								<dl>
+									<dt><label for="password">Password</label></dt>
+									<dd>
+										<input type="password" id="password" name="password" value="" class="long">
+										<small><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?lost-password/">Lost Password</a></small>
+									</dd>
+								</dl>
+
+																	<dl>
+										<dt></dt>
+										<dd>
+											<label for="useCookies"><input type="checkbox" id="useCookies" name="useCookies" value="1" checked> Remain logged in</label>
+										</dd>
+									</dl>
+
+
+
+								<div class="userLoginButtons">
+									<input type="submit" value="Submit" accesskey="s">
+									<input type="hidden" name="url" value="/index.php?board/688-oyun-event/">
+									<input type="hidden" name="t" value="67c0576479ed958ed0d826e5b5ec591fbed0d3e9">								</div>
+							</section>							
+
+
+						</form>
+					</div>
+
+					</li>
+
+
+
+		<!-- page search -->
+		<li class="jsOnly">
+			<a href="#" id="userPanelSearchButton" class="jsTooltip" title="Search"><span class="icon icon32 fa-search"></span> <span>Search</span></a>
+		</li>
+	</ul>
+</nav>
+			</div>
+		</div>
+
+		<div id="pageHeaderFacade" class="pageHeaderFacade">
+			<div class="layoutBoundary">
+				<div id="pageHeaderLogo" class="pageHeaderLogo">
+
+	<a href="https://board.tr.metin2.gameforge.com/">
+		<img src="https://image.board.gameforge.com/uploads/metin2/tr/Other_metin2_tr_2020_096a757283917064c9755ec1eab698bb.png" alt="" class="pageHeaderLogoLarge" style="width: 380px;height: 100px">
+		<img src="https://board.dev.gameforge.com/images/styleLogo-mobile-ec90cae2cb1f029ff85e62227bdd269b10d56ae2.png" alt="" class="pageHeaderLogoSmall">
+
+
+	</a>
+</div>
+
+
+
+
+
+
+
+<div id="pageHeaderSearch" class="pageHeaderSearch" itemscope itemtype="http://schema.org/WebSite" itemid="https://board.tr.metin2.gameforge.com/wcf/">
+	<meta itemprop="url" content="https://board.tr.metin2.gameforge.com/wcf/">
+	<meta itemprop="name" content="Metin2 Türkiye">
+	<meta itemprop="description" content="">
+
+	<form method="post" action="https://board.tr.metin2.gameforge.com/wcf/index.php?search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+		<meta itemprop="target" content="https://board.tr.metin2.gameforge.com/wcf/index.php?search/&amp;q={q}">
+
+		<div id="pageHeaderSearchInputContainer" class="pageHeaderSearchInputContainer">
+			<div class="pageHeaderSearchType dropdown">
+				<a href="#" class="button dropdownToggle">This Forum</a>
+				<ul class="dropdownMenu">
+					<li><a href="#" data-extended-link="https://board.tr.metin2.gameforge.com/wcf/index.php?search/" data-object-type="everywhere">Everywhere</a></li>
+					<li class="dropdownDivider"></li>
+
+											<li><a href="#" data-extended-link="https://board.tr.metin2.gameforge.com/wcf/index.php?search/&amp;types%5B%5D=com.woltlab.wbb.post" data-object-type="com.woltlab.wbb.post" data-parameters='{ "boardIDs[]": 688 }'>This Forum</a></li>
+
+						<li class="dropdownDivider"></li>
+
+
+																													<li><a href="#" data-extended-link="https://board.tr.metin2.gameforge.com/wcf/index.php?search/&amp;types%5B%5D=com.woltlab.wbb.post" data-object-type="com.woltlab.wbb.post">Forum</a></li>
+																								<li><a href="#" data-extended-link="https://board.tr.metin2.gameforge.com/wcf/index.php?search/&amp;types%5B%5D=com.woltlab.wcf.article" data-object-type="com.woltlab.wcf.article">Articles</a></li>
+																								<li><a href="#" data-extended-link="https://board.tr.metin2.gameforge.com/wcf/index.php?search/&amp;types%5B%5D=com.woltlab.wcf.page" data-object-type="com.woltlab.wcf.page">Pages</a></li>
+
+					<li class="dropdownDivider"></li>
+					<li><a class="pageHeaderSearchExtendedLink" href="https://board.tr.metin2.gameforge.com/wcf/index.php?search/">More Options</a></li>
+				</ul>
+			</div>
+
+			<input itemprop="query-input" type="search" name="q" id="pageHeaderSearchInput" class="pageHeaderSearchInput" placeholder="Search …" autocomplete="off" value="" required>
+
+			<button class="pageHeaderSearchInputButton button" type="submit">
+				<span class="icon icon16 fa-search pointer" title="Search"></span>
+			</button>
+
+			<div id="pageHeaderSearchParameters"></div>
+
+
+			<input type="hidden" name="t" value="67c0576479ed958ed0d826e5b5ec591fbed0d3e9">		</div>
+	</form>
+</div>
+
+	</div>
+		</div>
+
+		</header>
+
+
+</div>
+
+
+
+
+
+	<div class="pageNavigation">
+	<div class="layoutBoundary">
+			<nav class="breadcrumbs">
+		<ol itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+			<li title="Metin2 Türkiye" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a href="https://board.tr.metin2.gameforge.com/wcf/" itemprop="item"><span itemprop="name">Metin2 Türkiye</span></a>
+															<meta itemprop="position" content="1">
+																					</li>
+
+											<li title="Forum" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a href="https://board.tr.metin2.gameforge.com/" itemprop="item"><span itemprop="name">Forum</span></a>
+															<meta itemprop="position" content="2">
+																					</li>
+
+											<li title="Duyurular" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?board/23-duyurular/" itemprop="item"><span itemprop="name">Duyurular</span></a>
+															<meta itemprop="position" content="3">
+																					</li>
+
+											<li title="Etkinlikler" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?board/766-etkinlikler/" itemprop="item"><span itemprop="name">Etkinlikler</span></a>
+															<meta itemprop="position" content="4">
+																					</li>
+		</ol>
+	</nav>
+
+		<ul class="pageNavigationIcons jsPageNavigationIcons">
+							<li><a rel="alternate" href="https://board.tr.metin2.gameforge.com/index.php?board-feed/688/" title="RSS Feed" class="jsTooltip"><span class="icon icon16 fa-rss"></span> <span class="invisible">RSS Feed</span></a></li>
+		<li class="jsOnly"><a href="#" title="Mark This Forum Read" class="markAsReadButton jsTooltip"><span class="icon icon16 fa-check"></span> <span class="invisible">Mark This Forum Read</span></a></li>
+
+		</ul>
+	</div>
+</div>
+
+
+
+	<section id="main" class="main" role="main">
+		<div class="layoutBoundary">
+
+
+			<div id="content" class="content">
+
+																<header class="contentHeader">
+		<div class="contentHeaderTitle">
+			<h1 class="contentTitle">Oyun Event</h1>
+
+		</div>
+
+
+	</header>
+
+
+	<div class="userNotice">
+
+
+
+			<div class="dsfg notice">
+
+					<script>
+  // Include the STOMT JavaScript SDK
+  (function(w, d, n, r, t, s){
+    w.Stomt = w.Stomt||[];
+    t = d.createElement(n);
+    s = d.getElementsByTagName(n)[0];
+    t.async=1;
+    t.src=r;
+    s.parentNode.insertBefore(t,s);
+  })(window, document, 'script', 'https://www.stomt.com/widget.js');
+
+  // Adjust the 'APP_ID' to your application id 
+  // you can find it here: https://www.stomt.com/YOUR_PAGE/apps
+  Stomt.push(['addCreate', {appId: 'ivQEt8Rbj8nTmucDs8qzuM5Co'}]);
+</script>				</div>
+							<div class="df notice">
+
+					<script src="https://pixelzirkus.gameforge.com/djs/pz.js.min"></script>
+<script>
+
+setPixel({
+  'location' : 'visit',
+  'product' : 'Metin2',
+  'language' : 'tr',
+  'server_id' : '1'
+});
+
+</script>				</div>
+
+		</div>
+
+
+
+			<div class="paginationTop">
+			<nav class="pagination" data-link="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=%d" data-pages="5">
+<ul>
+<li class="skip disabled"><span class="icon icon24 fa-chevron-left"></span></li>
+<li class="active"><span>1</span><span class="invisible">Page 1 of 5</span></li>
+<li><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=2" title="Page 2">2</a></li>
+<li><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=3" title="Page 3">3</a></li>
+<li><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=4" title="Page 4">4</a></li>
+<li><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=5" title="Page 5">5</a></li>
+<li class="skip"><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=2" title="Next Page" class="icon icon24 fa-chevron-right jsTooltip"></a></li>
+</ul></nav>
+		</div>
+
+
+			<div class="section tabularBox messageGroupList wbbThreadList jsClipboardContainer" data-type="com.woltlab.wbb.thread">
+	<ol class="tabularList">
+		<li class="tabularListRow tabularListRowHead">
+			<ol class="tabularListColumns">
+
+				<li class="columnSort">
+					<ul class="inlineList">
+						<li>
+							<a rel="nofollow" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=1&amp;sortField=lastPostTime&amp;sortOrder=ASC">
+								<span class="icon icon16 fa-sort-amount-desc jsTooltip" title="Sort by (Descending)"></span>
+							</a>
+						</li>
+						<li>
+							<div class="dropdown">
+								<span class="dropdownToggle">Last Reply</span>
+
+								<ul class="dropdownMenu">
+																			<li><a rel="nofollow" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=1&amp;sortField=topic&amp;sortOrder=DESC">Topic</a></li>
+																			<li><a rel="nofollow" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=1&amp;sortField=username&amp;sortOrder=DESC">Author</a></li>
+																			<li><a rel="nofollow" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=1&amp;sortField=time&amp;sortOrder=DESC">Date</a></li>
+																			<li><a rel="nofollow" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=1&amp;sortField=replies&amp;sortOrder=DESC">Replies</a></li>
+																			<li><a rel="nofollow" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=1&amp;sortField=cumulativeLikes&amp;sortOrder=DESC">Likes</a></li>
+																			<li><a rel="nofollow" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=1&amp;sortField=views&amp;sortOrder=DESC">Views</a></li>
+																			<li class="active"><a rel="nofollow" href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=1&amp;sortField=lastPostTime&amp;sortOrder=ASC">Last Reply</a></li>
+																	</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+
+				<li class="columnApplyFilter jsOnly">
+					<button class="small jsStaticDialog" data-dialog-id="wbbBoardSortFilter"><span class="icon icon16 fa-filter"></span> Filter</button>
+				</li>
+			</ol>
+		</li>
+
+
+	<li class="tabularListRow divider">
+		<ol
+			id="thread610408"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject wbbThreadAnnouncement"
+			data-thread-id="610408" data-element-id="610408"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+											<span class="icon icon16 fa-bullhorn jsTooltip wbbAnnouncementIcon" title="Announcement"></span>																
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/610408-metin2-t%C3%BCrkiye-tak%C4%B1m%C4%B1-yeni-y%C4%B1ld%C4%B1zlar%C4%B1n%C4%B1-ar%C4%B1yor/" class="messageGroupLink wbbTopicLink" data-thread-id="610408">Metin2 Türkiye Takımı Yeni Yıldızlarını Arıyor</a>
+
+													<span class="badge messageGroupCounterMobile">1</span>
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="103 Likes"></span><span class="wcfLikeValue">+103</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2019-12-28T17:54:19+01:00" class="datetime" data-timestamp="1577552059" data-date="Dec 28th 2019" data-time="5:54 pm" data-offset="3600">Dec 28th 2019</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-01-01T17:48:55+01:00" class="datetime" data-timestamp="1672591735" data-date="Jan 1st 2023" data-time="5:48 pm" data-offset="3600">Jan 1st 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>1</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>145k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"><span class="icon icon16 fa-comment-o"></span> 1</div>
+				</li>
+
+				<li class="columnLastPost">
+											<div class="box32">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/610408-metin2-t%C3%BCrkiye-tak%C4%B1m%C4%B1-yeni-y%C4%B1ld%C4%B1zlar%C4%B1n%C4%B1-ar%C4%B1yor/&amp;action=lastPost" class="jsTooltip" title="Go to Latest Post"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="32" height="32" alt="" class="userAvatarImage"></a>
+
+							<div>
+								<p>
+																			<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a>
+																	</p>
+								<small><time datetime="2023-01-01T17:48:55+01:00" class="datetime" data-timestamp="1672591735" data-date="Jan 1st 2023" data-time="5:48 pm" data-offset="3600">Jan 1st 2023</time></small>
+							</div>
+						</div>
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow divider">
+		<ol
+			id="thread624409"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject new wbbThreadSticky"
+			data-thread-id="624409" data-element-id="624409"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p title="Double-Click to Mark This Thread Read"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+																	<span class="icon icon16 fa-thumb-tack jsTooltip wbbStickyIcon" title="Pinned"></span>										
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624409-kurban-bayram%C4%B1-etkinlikleri/" class="messageGroupLink wbbTopicLink" data-thread-id="624409">Kurban Bayramı Etkinlikleri</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="7 Likes"></span><span class="wcfLikeValue">+7</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-06-27T14:19:04+02:00" class="datetime" data-timestamp="1687868344" data-date="Jun 27th 2023" data-time="2:19 pm" data-offset="7200">Tuesday, 2:19 pm</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-06-27T14:19:04+02:00" class="datetime" data-timestamp="1687868344" data-date="Jun 27th 2023" data-time="2:19 pm" data-offset="7200">Tuesday, 2:19 pm</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>1.6k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow divider">
+		<ol
+			id="thread624361"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject wbbThreadSticky"
+			data-thread-id="624361" data-element-id="624361"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+																	<span class="icon icon16 fa-thumb-tack jsTooltip wbbStickyIcon" title="Pinned"></span>										
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624361-cehennem-zorlu%C4%9Funda-%C3%B6b%C3%BCr-d%C3%BCnya-etkinli%C4%9Fi/" class="messageGroupLink wbbTopicLink" data-thread-id="624361">Cehennem Zorluğunda Öbür Dünya Etkinliği</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="7 Likes"></span><span class="wcfLikeValue">+7</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-06-16T14:00:00+02:00" class="datetime" data-timestamp="1686916800" data-date="Jun 16th 2023" data-time="2:00 pm" data-offset="7200">Jun 16th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-06-16T14:00:00+02:00" class="datetime" data-timestamp="1686916800" data-date="Jun 16th 2023" data-time="2:00 pm" data-offset="7200">Jun 16th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>2.5k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow divider">
+		<ol
+			id="thread624324"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject wbbThreadSticky"
+			data-thread-id="624324" data-element-id="624324"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+																	<span class="icon icon16 fa-thumb-tack jsTooltip wbbStickyIcon" title="Pinned"></span>										
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624324-okey-oyununda-galibiyeti-yakala/" class="messageGroupLink wbbTopicLink" data-thread-id="624324">Okey Oyununda Galibiyeti Yakala</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="14 Likes"></span><span class="wcfLikeValue">+14</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-06-13T14:00:00+02:00" class="datetime" data-timestamp="1686657600" data-date="Jun 13th 2023" data-time="2:00 pm" data-offset="7200">Jun 13th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-06-13T14:00:00+02:00" class="datetime" data-timestamp="1686657600" data-date="Jun 13th 2023" data-time="2:00 pm" data-offset="7200">Jun 13th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>4k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow divider">
+		<ol
+			id="thread624323"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject wbbThreadSticky"
+			data-thread-id="624323" data-element-id="624323"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+																	<span class="icon icon16 fa-thumb-tack jsTooltip wbbStickyIcon" title="Pinned"></span>										
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624323-haziran-da-g%C3%BC%C3%A7l%C3%BC-macera-etkinlikleri/" class="messageGroupLink wbbTopicLink" data-thread-id="624323">Haziran'da güçlü macera etkinlikleri</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="13 Likes"></span><span class="wcfLikeValue">+13</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-06-07T14:14:57+02:00" class="datetime" data-timestamp="1686140097" data-date="Jun 7th 2023" data-time="2:14 pm" data-offset="7200">Jun 7th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-06-07T14:14:57+02:00" class="datetime" data-timestamp="1686140097" data-date="Jun 7th 2023" data-time="2:14 pm" data-offset="7200">Jun 7th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>9.1k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow divider">
+		<ol
+			id="thread624291"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject wbbThreadSticky"
+			data-thread-id="624291" data-element-id="624291"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/20/68771-2016e4c73a95d08c2bee057df0a94c49021ceaa6.jpg" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+																	<span class="icon icon16 fa-thumb-tack jsTooltip wbbStickyIcon" title="Pinned"></span>										
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624291-t%C3%BCrkiye-marmara-ege-bagjanamu-sunucular%C4%B1-haziran-etkinlik-takvimi/" class="messageGroupLink wbbTopicLink" data-thread-id="624291">Türkiye &amp; Marmara &amp; Ege &amp; Bagjanamu Sunucuları Haziran Etkinlik Takvimi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="2 Likes"></span><span class="wcfLikeValue">+2</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/449041-ga-venus/" class="userLink" data-user-id="449041">[GA]Venus</a></li>
+						<li class="messageGroupTime"><time datetime="2023-05-30T22:32:11+02:00" class="datetime" data-timestamp="1685478731" data-date="May 30th 2023" data-time="10:32 pm" data-offset="7200">May 30th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Venus</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-05-30T22:32:11+02:00" class="datetime" data-timestamp="1685478731" data-date="May 30th 2023" data-time="10:32 pm" data-offset="7200">May 30th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>14k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow divider">
+		<ol
+			id="thread623984"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject wbbThreadSticky"
+			data-thread-id="623984" data-element-id="623984"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+																	<span class="icon icon16 fa-thumb-tack jsTooltip wbbStickyIcon" title="Pinned"></span>										
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623984-ruby-charon-sabit-etkinlik-takvimi/" class="messageGroupLink wbbTopicLink" data-thread-id="623984">Ruby Charon Sabit Etkinlik Takvimi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="8 Likes"></span><span class="wcfLikeValue">+8</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-04-01T22:39:11+02:00" class="datetime" data-timestamp="1680381551" data-date="Apr 1st 2023" data-time="10:39 pm" data-offset="7200">Apr 1st 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-04-01T22:39:11+02:00" class="datetime" data-timestamp="1680381551" data-date="Apr 1st 2023" data-time="10:39 pm" data-offset="7200">Apr 1st 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>28k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow divider">
+		<ol
+			id="thread623177"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject wbbThreadSticky"
+			data-thread-id="623177" data-element-id="623177"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/2d/50408-2d50378b2cf7fdd9bcae5610f6190f617369de0e.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+																	<span class="icon icon16 fa-thumb-tack jsTooltip wbbStickyIcon" title="Pinned"></span>										
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623177-anadolu-dandanakan-barbaros-ezel-arkada%C5%9Flar-van-ve-bahar-sunucusu-sabit-etkinlik/" class="messageGroupLink wbbTopicLink" data-thread-id="623177">Anadolu, Dandanakan, Barbaros, Ezel, Arkadaşlar, Van ve Bahar Sunucusu Sabit Etkinlik Takvimi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="8 Likes"></span><span class="wcfLikeValue">+8</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/446260-ga-andios/" class="userLink" data-user-id="446260">[GA]Andios</a></li>
+						<li class="messageGroupTime"><time datetime="2022-10-25T20:19:36+02:00" class="datetime" data-timestamp="1666721976" data-date="Oct 25th 2022" data-time="8:19 pm" data-offset="7200">Oct 25th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Andios</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-10-25T20:19:36+02:00" class="datetime" data-timestamp="1666721976" data-date="Oct 25th 2022" data-time="8:19 pm" data-offset="7200">Oct 25th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>66k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow divider">
+		<ol
+			id="thread614058"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject wbbThreadSticky"
+			data-thread-id="614058" data-element-id="614058"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+																	<span class="icon icon16 fa-thumb-tack jsTooltip wbbStickyIcon" title="Pinned"></span>										
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/614058-kaos-ta%C5%9F%C4%B1-s%C3%BCper-ta%C5%9Flar-mega-ta%C5%9Flar-ve-metin-ya%C4%9Fmuru-hakk%C4%B1nda/" class="messageGroupLink wbbTopicLink" data-thread-id="614058">Kaos Taşı, Süper Taşlar, Mega Taşlar ve Metin Yağmuru Hakkında.</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="14 Likes"></span><span class="wcfLikeValue">+14</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2020-06-08T12:37:10+02:00" class="datetime" data-timestamp="1591612630" data-date="Jun 8th 2020" data-time="12:37 pm" data-offset="7200">Jun 8th 2020</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2020-06-08T12:37:10+02:00" class="datetime" data-timestamp="1591612630" data-date="Jun 8th 2020" data-time="12:37 pm" data-offset="7200">Jun 8th 2020</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>58k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624299"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624299" data-element-id="624299"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/20/68771-2016e4c73a95d08c2bee057df0a94c49021ceaa6.jpg" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624299-telafi-etkinlikleri/" class="messageGroupLink wbbTopicLink" data-thread-id="624299">Telafi Etkinlikleri</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="7 Likes"></span><span class="wcfLikeValue">+7</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/449041-ga-venus/" class="userLink" data-user-id="449041">[GA]Venus</a></li>
+						<li class="messageGroupTime"><time datetime="2023-06-01T12:52:05+02:00" class="datetime" data-timestamp="1685616725" data-date="Jun 1st 2023" data-time="12:52 pm" data-offset="7200">Jun 1st 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Venus</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-06-01T12:52:05+02:00" class="datetime" data-timestamp="1685616725" data-date="Jun 1st 2023" data-time="12:52 pm" data-offset="7200">Jun 1st 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>5.7k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624238"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624238" data-element-id="624238"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/2d/50408-2d50378b2cf7fdd9bcae5610f6190f617369de0e.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624238-kahin-yar%C4%B1%C5%9Fmas%C4%B1/" class="messageGroupLink wbbTopicLink" data-thread-id="624238">Kahin Yarışması</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="15 Likes"></span><span class="wcfLikeValue">+15</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/446260-ga-andios/" class="userLink" data-user-id="446260">[GA]Andios</a></li>
+						<li class="messageGroupTime"><time datetime="2023-05-19T09:54:34+02:00" class="datetime" data-timestamp="1684482874" data-date="May 19th 2023" data-time="9:54 am" data-offset="7200">May 19th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Andios</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-05-19T09:54:34+02:00" class="datetime" data-timestamp="1684482874" data-date="May 19th 2023" data-time="9:54 am" data-offset="7200">May 19th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>6.4k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624190"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624190" data-element-id="624190"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/2d/50408-2d50378b2cf7fdd9bcae5610f6190f617369de0e.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624190-may%C4%B1s-ay%C4%B1n%C4%B1n-macera-etkinlikleri/" class="messageGroupLink wbbTopicLink" data-thread-id="624190">Mayıs Ayının Macera Etkinlikleri</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="9 Likes"></span><span class="wcfLikeValue">+9</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/446260-ga-andios/" class="userLink" data-user-id="446260">[GA]Andios</a></li>
+						<li class="messageGroupTime"><time datetime="2023-05-08T10:00:00+02:00" class="datetime" data-timestamp="1683532800" data-date="May 8th 2023" data-time="10:00 am" data-offset="7200">May 8th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Andios</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-05-08T10:00:00+02:00" class="datetime" data-timestamp="1683532800" data-date="May 8th 2023" data-time="10:00 am" data-offset="7200">May 8th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>8.7k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624167"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624167" data-element-id="624167"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624167-t%C3%BCrkiye-marmara-ege-bagjanamu-bahar-sunucular%C4%B1-may%C4%B1s-etkinlik-takvimi/" class="messageGroupLink wbbTopicLink" data-thread-id="624167">Türkiye &amp; Marmara &amp; Ege &amp; Bagjanamu &amp; Bahar Sunucuları Mayıs Etkinlik Takvimi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="7 Likes"></span><span class="wcfLikeValue">+7</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-05-01T15:36:59+02:00" class="datetime" data-timestamp="1682948219" data-date="May 1st 2023" data-time="3:36 pm" data-offset="7200">May 1st 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-05-01T15:36:59+02:00" class="datetime" data-timestamp="1682948219" data-date="May 1st 2023" data-time="3:36 pm" data-offset="7200">May 1st 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>18k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624102"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624102" data-element-id="624102"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624102-bayram-etkinlikleri/" class="messageGroupLink wbbTopicLink" data-thread-id="624102">Bayram Etkinlikleri</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="24 Likes"></span><span class="wcfLikeValue">+24</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2023-04-19T20:25:31+02:00" class="datetime" data-timestamp="1681928731" data-date="Apr 19th 2023" data-time="8:25 pm" data-offset="7200">Apr 19th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-04-19T20:25:31+02:00" class="datetime" data-timestamp="1681928731" data-date="Apr 19th 2023" data-time="8:25 pm" data-offset="7200">Apr 19th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>8.2k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624077"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624077" data-element-id="624077"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624077-madencilik-etkinli%C4%9Fi/" class="messageGroupLink wbbTopicLink" data-thread-id="624077">Madencilik Etkinliği</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="6 Likes"></span><span class="wcfLikeValue">+6</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2023-04-16T17:45:15+02:00" class="datetime" data-timestamp="1681659915" data-date="Apr 16th 2023" data-time="5:45 pm" data-offset="7200">Apr 16th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-04-16T17:45:15+02:00" class="datetime" data-timestamp="1681659915" data-date="Apr 16th 2023" data-time="5:45 pm" data-offset="7200">Apr 16th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>2.7k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624039"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624039" data-element-id="624039"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624039-madencilik-etkinli%C4%9Fi/" class="messageGroupLink wbbTopicLink" data-thread-id="624039">Madencilik Etkinliği</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="9 Likes"></span><span class="wcfLikeValue">+9</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2023-04-09T17:59:39+02:00" class="datetime" data-timestamp="1681055979" data-date="Apr 9th 2023" data-time="5:59 pm" data-offset="7200">Apr 9th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-04-09T17:59:39+02:00" class="datetime" data-timestamp="1681055979" data-date="Apr 9th 2023" data-time="5:59 pm" data-offset="7200">Apr 9th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>2.4k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624013"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624013" data-element-id="624013"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624013-etkinlikler-paskalya-ve-%C3%B6b%C3%BCr-d%C3%BCnya/" class="messageGroupLink wbbTopicLink" data-thread-id="624013">Etkinlikler: Paskalya ve Öbür Dünya</a>
+
+													<span class="badge messageGroupCounterMobile">1</span>
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="13 Likes"></span><span class="wcfLikeValue">+13</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-04-05T12:00:00+02:00" class="datetime" data-timestamp="1680688800" data-date="Apr 5th 2023" data-time="12:00 pm" data-offset="7200">Apr 5th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-04-06T08:23:41+02:00" class="datetime" data-timestamp="1680762221" data-date="Apr 6th 2023" data-time="8:23 am" data-offset="7200">Apr 6th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>1</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>10k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"><span class="icon icon16 fa-comment-o"></span> 1</div>
+				</li>
+
+				<li class="columnLastPost">
+											<div class="box32">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624013-etkinlikler-paskalya-ve-%C3%B6b%C3%BCr-d%C3%BCnya/&amp;action=lastPost" class="jsTooltip" title="Go to Latest Post"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="32" height="32" alt="" class="userAvatarImage"></a>
+
+							<div>
+								<p>
+																			<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a>
+																	</p>
+								<small><time datetime="2023-04-06T08:23:41+02:00" class="datetime" data-timestamp="1680762221" data-date="Apr 6th 2023" data-time="8:23 am" data-offset="7200">Apr 6th 2023</time></small>
+							</div>
+						</div>
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread624016"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="624016" data-element-id="624016"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624016-madencilik-etkinli%C4%9Fi/" class="messageGroupLink wbbTopicLink" data-thread-id="624016">Madencilik Etkinliği</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="8 Likes"></span><span class="wcfLikeValue">+8</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2023-04-04T21:04:55+02:00" class="datetime" data-timestamp="1680635095" data-date="Apr 4th 2023" data-time="9:04 pm" data-offset="7200">Apr 4th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-04-04T21:04:55+02:00" class="datetime" data-timestamp="1680635095" data-date="Apr 4th 2023" data-time="9:04 pm" data-offset="7200">Apr 4th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>1.7k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623965"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623965" data-element-id="623965"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623965-t%C3%BCrkiye-marmara-ege-bagjanamu-sunucular%C4%B1-nisan-etkinlik-takvimi/" class="messageGroupLink wbbTopicLink" data-thread-id="623965">Türkiye &amp; Marmara &amp; Ege &amp; Bagjanamu Sunucuları NİSAN Etkinlik Takvimi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="6 Likes"></span><span class="wcfLikeValue">+6</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-03-29T18:50:47+02:00" class="datetime" data-timestamp="1680108647" data-date="Mar 29th 2023" data-time="6:50 pm" data-offset="7200">Mar 29th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-03-29T18:50:47+02:00" class="datetime" data-timestamp="1680108647" data-date="Mar 29th 2023" data-time="6:50 pm" data-offset="7200">Mar 29th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>23k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623843"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623843" data-element-id="623843"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623843-hay%C4%B1rl%C4%B1-ramazanlar/" class="messageGroupLink wbbTopicLink" data-thread-id="623843">Hayırlı Ramazanlar..</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="9 Likes"></span><span class="wcfLikeValue">+9</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-03-08T14:00:00+01:00" class="datetime" data-timestamp="1678280400" data-date="Mar 8th 2023" data-time="2:00 pm" data-offset="3600">Mar 8th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-03-08T14:00:00+01:00" class="datetime" data-timestamp="1678280400" data-date="Mar 8th 2023" data-time="2:00 pm" data-offset="3600">Mar 8th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>9.8k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623802"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623802" data-element-id="623802"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623802-t%C3%BCrkiye-marmara-ege-bagjanamu-sunucular%C4%B1-mart-etkinlik-takvimi/" class="messageGroupLink wbbTopicLink" data-thread-id="623802">Türkiye &amp; Marmara &amp; Ege &amp; Bagjanamu Sunucuları MART Etkinlik Takvimi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="7 Likes"></span><span class="wcfLikeValue">+7</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-02-27T14:42:06+01:00" class="datetime" data-timestamp="1677505326" data-date="Feb 27th 2023" data-time="2:42 pm" data-offset="3600">Feb 27th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-02-27T14:42:06+01:00" class="datetime" data-timestamp="1677505326" data-date="Feb 27th 2023" data-time="2:42 pm" data-offset="3600">Feb 27th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>23k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623780"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623780" data-element-id="623780"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623780-kral%C4%B1-yakala/" class="messageGroupLink wbbTopicLink" data-thread-id="623780">Kralı Yakala</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="5 Likes"></span><span class="wcfLikeValue">+5</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-02-20T14:00:00+01:00" class="datetime" data-timestamp="1676898000" data-date="Feb 20th 2023" data-time="2:00 pm" data-offset="3600">Feb 20th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-02-20T14:00:00+01:00" class="datetime" data-timestamp="1676898000" data-date="Feb 20th 2023" data-time="2:00 pm" data-offset="3600">Feb 20th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>5.9k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623760"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623760" data-element-id="623760"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/2d/50408-2d50378b2cf7fdd9bcae5610f6190f617369de0e.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623760-telafi/" class="messageGroupLink wbbTopicLink" data-thread-id="623760">Telafi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="15 Likes"></span><span class="wcfLikeValue">+15</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/446260-ga-andios/" class="userLink" data-user-id="446260">[GA]Andios</a></li>
+						<li class="messageGroupTime"><time datetime="2023-02-16T16:15:42+01:00" class="datetime" data-timestamp="1676560542" data-date="Feb 16th 2023" data-time="4:15 pm" data-offset="3600">Feb 16th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Andios</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-02-16T16:15:42+01:00" class="datetime" data-timestamp="1676560542" data-date="Feb 16th 2023" data-time="4:15 pm" data-offset="3600">Feb 16th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>5.8k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623749"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623749" data-element-id="623749"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623749-%C5%9Fubat-ay%C4%B1ndaki-macera-etkinliklerimiz/" class="messageGroupLink wbbTopicLink" data-thread-id="623749">Şubat ayındaki macera etkinliklerimiz</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="1 Like"></span><span class="wcfLikeValue">+1</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-02-15T23:41:23+01:00" class="datetime" data-timestamp="1676500883" data-date="Feb 15th 2023" data-time="11:41 pm" data-offset="3600">Feb 15th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-02-15T23:41:23+01:00" class="datetime" data-timestamp="1676500883" data-date="Feb 15th 2023" data-time="11:41 pm" data-offset="3600">Feb 15th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>5.2k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623718"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623718" data-element-id="623718"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623718-lonca-sava%C5%9F%C4%B1-%C5%9Fimdi-dene/" class="messageGroupLink wbbTopicLink" data-thread-id="623718">Lonca Savaşı - şimdi dene!</a>
+
+													<span class="badge messageGroupCounterMobile">1</span>
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="6 Likes"></span><span class="wcfLikeValue">+6</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-02-09T10:00:00+01:00" class="datetime" data-timestamp="1675933200" data-date="Feb 9th 2023" data-time="10:00 am" data-offset="3600">Feb 9th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-02-15T07:43:12+01:00" class="datetime" data-timestamp="1676443392" data-date="Feb 15th 2023" data-time="7:43 am" data-offset="3600">Feb 15th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>1</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>4k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"><span class="icon icon16 fa-comment-o"></span> 1</div>
+				</li>
+
+				<li class="columnLastPost">
+											<div class="box32">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623718-lonca-sava%C5%9F%C4%B1-%C5%9Fimdi-dene/&amp;action=lastPost" class="jsTooltip" title="Go to Latest Post"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="32" height="32" alt="" class="userAvatarImage"></a>
+
+							<div>
+								<p>
+																			<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a>
+																	</p>
+								<small><time datetime="2023-02-15T07:43:12+01:00" class="datetime" data-timestamp="1676443392" data-date="Feb 15th 2023" data-time="7:43 am" data-offset="3600">Feb 15th 2023</time></small>
+							</div>
+						</div>
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623636"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623636" data-element-id="623636"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623636-metin2-den-sevgilerle/" class="messageGroupLink wbbTopicLink" data-thread-id="623636">Metin2'den sevgilerle</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="12 Likes"></span><span class="wcfLikeValue">+12</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-01-31T10:00:00+01:00" class="datetime" data-timestamp="1675155600" data-date="Jan 31st 2023" data-time="10:00 am" data-offset="3600">Jan 31st 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-01-31T10:00:00+01:00" class="datetime" data-timestamp="1675155600" data-date="Jan 31st 2023" data-time="10:00 am" data-offset="3600">Jan 31st 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>6.5k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623635"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623635" data-element-id="623635"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623635-t%C3%BCrkiye-marmara-ege-bagjanamu-sunucular%C4%B1-%C5%9Fubat-etkinlik-takvimi/" class="messageGroupLink wbbTopicLink" data-thread-id="623635">Türkiye &amp; Marmara &amp; Ege &amp; Bagjanamu Sunucuları Şubat Etkinlik Takvimi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="11 Likes"></span><span class="wcfLikeValue">+11</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-01-30T18:42:09+01:00" class="datetime" data-timestamp="1675100529" data-date="Jan 30th 2023" data-time="6:42 pm" data-offset="3600">Jan 30th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-01-30T18:42:09+01:00" class="datetime" data-timestamp="1675100529" data-date="Jan 30th 2023" data-time="6:42 pm" data-offset="3600">Jan 30th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>20k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623585"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623585" data-element-id="623585"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623585-primordis-ke%C5%9Ffi/" class="messageGroupLink wbbTopicLink" data-thread-id="623585">Primordis Keşfi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="5 Likes"></span><span class="wcfLikeValue">+5</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-01-17T21:34:09+01:00" class="datetime" data-timestamp="1673987649" data-date="Jan 17th 2023" data-time="9:34 pm" data-offset="3600">Jan 17th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-01-17T21:34:09+01:00" class="datetime" data-timestamp="1673987649" data-date="Jan 17th 2023" data-time="9:34 pm" data-offset="3600">Jan 17th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>3.6k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623521"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623521" data-element-id="623521"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623521-metin2-y%C4%B1l-d%C3%B6n%C3%BCm%C3%BC-etkinliklerimiz/" class="messageGroupLink wbbTopicLink" data-thread-id="623521">Metin2 Yıl Dönümü Etkinliklerimiz</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="17 Likes"></span><span class="wcfLikeValue">+17</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2023-01-11T10:00:00+01:00" class="datetime" data-timestamp="1673427600" data-date="Jan 11th 2023" data-time="10:00 am" data-offset="3600">Jan 11th 2023</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2023-01-11T10:00:00+01:00" class="datetime" data-timestamp="1673427600" data-date="Jan 11th 2023" data-time="10:00 am" data-offset="3600">Jan 11th 2023</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>10k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623453"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623453" data-element-id="623453"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623453-etkinlikler-devam-ediyor/" class="messageGroupLink wbbTopicLink" data-thread-id="623453">Etkinlikler Devam Ediyor</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="4 Likes"></span><span class="wcfLikeValue">+4</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2022-12-28T10:00:00+01:00" class="datetime" data-timestamp="1672218000" data-date="Dec 28th 2022" data-time="10:00 am" data-offset="3600">Dec 28th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-12-28T10:00:00+01:00" class="datetime" data-timestamp="1672218000" data-date="Dec 28th 2022" data-time="10:00 am" data-offset="3600">Dec 28th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>9k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623223"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623223" data-element-id="623223"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/20/68771-2016e4c73a95d08c2bee057df0a94c49021ceaa6.jpg" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623223-%C5%9Fampiyonluk-etkinli%C4%9Fi/" class="messageGroupLink wbbTopicLink" data-thread-id="623223">Şampiyonluk Etkinliği</a>
+
+													<span class="badge messageGroupCounterMobile">3</span>
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="18 Likes"></span><span class="wcfLikeValue">+18</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/449041-ga-venus/" class="userLink" data-user-id="449041">[GA]Venus</a></li>
+						<li class="messageGroupTime"><time datetime="2022-11-16T12:00:00+01:00" class="datetime" data-timestamp="1668596400" data-date="Nov 16th 2022" data-time="12:00 pm" data-offset="3600">Nov 16th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Venus</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-12-19T14:53:34+01:00" class="datetime" data-timestamp="1671458014" data-date="Dec 19th 2022" data-time="2:53 pm" data-offset="3600">Dec 19th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>3</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>17k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"><span class="icon icon16 fa-comment-o"></span> 3</div>
+				</li>
+
+				<li class="columnLastPost">
+											<div class="box32">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623223-%C5%9Fampiyonluk-etkinli%C4%9Fi/&amp;action=lastPost" class="jsTooltip" title="Go to Latest Post"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/2d/50408-2d50378b2cf7fdd9bcae5610f6190f617369de0e.png" width="32" height="32" alt="" class="userAvatarImage"></a>
+
+							<div>
+								<p>
+																			<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/446260-ga-andios/" class="userLink" data-user-id="446260">[GA]Andios</a>
+																	</p>
+								<small><time datetime="2022-12-19T14:53:34+01:00" class="datetime" data-timestamp="1671458014" data-date="Dec 19th 2022" data-time="2:53 pm" data-offset="3600">Dec 19th 2022</time></small>
+							</div>
+						</div>
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623329"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623329" data-element-id="623329"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623329-maceralarla-dolu-bir-k%C4%B1%C5%9F-sezonu/" class="messageGroupLink wbbTopicLink" data-thread-id="623329">Maceralarla dolu bir kış sezonu!</a>
+
+													<span class="badge messageGroupCounterMobile">2</span>
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="22 Likes"></span><span class="wcfLikeValue">+22</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2022-11-30T12:00:00+01:00" class="datetime" data-timestamp="1669806000" data-date="Nov 30th 2022" data-time="12:00 pm" data-offset="3600">Nov 30th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-12-07T13:33:52+01:00" class="datetime" data-timestamp="1670416432" data-date="Dec 7th 2022" data-time="1:33 pm" data-offset="3600">Dec 7th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>2</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>13k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"><span class="icon icon16 fa-comment-o"></span> 2</div>
+				</li>
+
+				<li class="columnLastPost">
+											<div class="box32">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623329-maceralarla-dolu-bir-k%C4%B1%C5%9F-sezonu/&amp;action=lastPost" class="jsTooltip" title="Go to Latest Post"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="32" height="32" alt="" class="userAvatarImage"></a>
+
+							<div>
+								<p>
+																			<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a>
+																	</p>
+								<small><time datetime="2022-12-07T13:33:52+01:00" class="datetime" data-timestamp="1670416432" data-date="Dec 7th 2022" data-time="1:33 pm" data-offset="3600">Dec 7th 2022</time></small>
+							</div>
+						</div>
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623319"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623319" data-element-id="623319"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623319-aral%C4%B1k-ve-ocak-etkinlik-takvimi/" class="messageGroupLink wbbTopicLink" data-thread-id="623319">Aralık ve Ocak Etkinlik Takvimi</a>
+
+													<span class="badge messageGroupCounterMobile">1</span>
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="15 Likes"></span><span class="wcfLikeValue">+15</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2022-11-26T00:32:23+01:00" class="datetime" data-timestamp="1669419143" data-date="Nov 26th 2022" data-time="12:32 am" data-offset="3600">Nov 26th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-11-28T12:53:47+01:00" class="datetime" data-timestamp="1669636427" data-date="Nov 28th 2022" data-time="12:53 pm" data-offset="3600">Nov 28th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>1</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>56k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"><span class="icon icon16 fa-comment-o"></span> 1</div>
+				</li>
+
+				<li class="columnLastPost">
+											<div class="box32">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623319-aral%C4%B1k-ve-ocak-etkinlik-takvimi/&amp;action=lastPost" class="jsTooltip" title="Go to Latest Post"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="32" height="32" alt="" class="userAvatarImage"></a>
+
+							<div>
+								<p>
+																			<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a>
+																	</p>
+								<small><time datetime="2022-11-28T12:53:47+01:00" class="datetime" data-timestamp="1669636427" data-date="Nov 28th 2022" data-time="12:53 pm" data-offset="3600">Nov 28th 2022</time></small>
+							</div>
+						</div>
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623165"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623165" data-element-id="623165"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623165-kas%C4%B1m-etkinlikleri/" class="messageGroupLink wbbTopicLink" data-thread-id="623165">Kasım Etkinlikleri</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="11 Likes"></span><span class="wcfLikeValue">+11</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2022-11-07T12:00:00+01:00" class="datetime" data-timestamp="1667818800" data-date="Nov 7th 2022" data-time="12:00 pm" data-offset="3600">Nov 7th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-11-07T12:00:00+01:00" class="datetime" data-timestamp="1667818800" data-date="Nov 7th 2022" data-time="12:00 pm" data-offset="3600">Nov 7th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>8.2k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623137"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623137" data-element-id="623137"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/2d/50408-2d50378b2cf7fdd9bcae5610f6190f617369de0e.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623137-exp-bonus/" class="messageGroupLink wbbTopicLink" data-thread-id="623137">Exp bonus</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="8 Likes"></span><span class="wcfLikeValue">+8</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/446260-ga-andios/" class="userLink" data-user-id="446260">[GA]Andios</a></li>
+						<li class="messageGroupTime"><time datetime="2022-11-01T08:57:32+01:00" class="datetime" data-timestamp="1667289452" data-date="Nov 1st 2022" data-time="8:57 am" data-offset="3600">Nov 1st 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Andios</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-11-01T08:57:32+01:00" class="datetime" data-timestamp="1667289452" data-date="Nov 1st 2022" data-time="8:57 am" data-offset="3600">Nov 1st 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>4.8k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623120"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623120" data-element-id="623120"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623120-t%C3%BCrkiye-marmara-ege-bagjanamu-sunucular%C4%B1-kas%C4%B1m-etkinlik-takvimi/" class="messageGroupLink wbbTopicLink" data-thread-id="623120">Türkiye &amp; Marmara &amp; Ege &amp; Bagjanamu Sunucuları Kasım Etkinlik Takvimi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="6 Likes"></span><span class="wcfLikeValue">+6</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2022-10-29T22:25:47+02:00" class="datetime" data-timestamp="1667075147" data-date="Oct 29th 2022" data-time="10:25 pm" data-offset="7200">Oct 29th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-10-29T22:25:47+02:00" class="datetime" data-timestamp="1667075147" data-date="Oct 29th 2022" data-time="10:25 pm" data-offset="7200">Oct 29th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>24k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread622714"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="622714" data-element-id="622714"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/622714-normal-sunucular/" class="messageGroupLink wbbTopicLink" data-thread-id="622714">Normal Sunucular</a>
+
+													<span class="badge messageGroupCounterMobile">1</span>
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="55 Likes"></span><span class="wcfLikeValue">+55</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2022-08-23T20:26:48+02:00" class="datetime" data-timestamp="1661279208" data-date="Aug 23rd 2022" data-time="8:26 pm" data-offset="7200">Aug 23rd 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-10-25T20:19:36+02:00" class="datetime" data-timestamp="1666721976" data-date="Oct 25th 2022" data-time="8:19 pm" data-offset="7200">Oct 25th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>1</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>42k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"><span class="icon icon16 fa-comment-o"></span> 1</div>
+				</li>
+
+				<li class="columnLastPost">
+											<div class="box32">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/622714-normal-sunucular/&amp;action=lastPost" class="jsTooltip" title="Go to Latest Post"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/2d/50408-2d50378b2cf7fdd9bcae5610f6190f617369de0e.png" width="32" height="32" alt="" class="userAvatarImage"></a>
+
+							<div>
+								<p>
+																			<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/446260-ga-andios/" class="userLink" data-user-id="446260">[GA]Andios</a>
+																	</p>
+								<small><time datetime="2022-10-25T20:19:36+02:00" class="datetime" data-timestamp="1666721976" data-date="Oct 25th 2022" data-time="8:19 pm" data-offset="7200">Oct 25th 2022</time></small>
+							</div>
+						</div>
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623086"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623086" data-element-id="623086"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/2d/50408-2d50378b2cf7fdd9bcae5610f6190f617369de0e.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623086-29-ekim-cumhuriyet-bayram%C4%B1/" class="messageGroupLink wbbTopicLink" data-thread-id="623086">29 Ekim Cumhuriyet Bayramı</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="24 Likes"></span><span class="wcfLikeValue">+24</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/446260-ga-andios/" class="userLink" data-user-id="446260">[GA]Andios</a></li>
+						<li class="messageGroupTime"><time datetime="2022-10-24T18:04:44+02:00" class="datetime" data-timestamp="1666627484" data-date="Oct 24th 2022" data-time="6:04 pm" data-offset="7200">Oct 24th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">[GA]Andios</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-10-24T18:04:44+02:00" class="datetime" data-timestamp="1666627484" data-date="Oct 24th 2022" data-time="6:04 pm" data-offset="7200">Oct 24th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>3.9k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread623038"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="623038" data-element-id="623038"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/623038-primordis-ke%C5%9Ffi/" class="messageGroupLink wbbTopicLink" data-thread-id="623038">Primordis Keşfi</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="13 Likes"></span><span class="wcfLikeValue">+13</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/413154-fastfood/" class="userLink" data-user-id="413154">FastFooD</a></li>
+						<li class="messageGroupTime"><time datetime="2022-10-18T14:00:00+02:00" class="datetime" data-timestamp="1666094400" data-date="Oct 18th 2022" data-time="2:00 pm" data-offset="7200">Oct 18th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">FastFooD</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-10-18T14:00:00+02:00" class="datetime" data-timestamp="1666094400" data-date="Oct 18th 2022" data-time="2:00 pm" data-offset="7200">Oct 18th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>4.8k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread622989"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="622989" data-element-id="622989"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/622989-cad%C4%B1lar-bayram%C4%B1-nda-yutnori/" class="messageGroupLink wbbTopicLink" data-thread-id="622989">Cadılar Bayramı'nda Yutnori</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="12 Likes"></span><span class="wcfLikeValue">+12</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2022-10-12T14:00:00+02:00" class="datetime" data-timestamp="1665576000" data-date="Oct 12th 2022" data-time="2:00 pm" data-offset="7200">Oct 12th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-10-12T14:00:00+02:00" class="datetime" data-timestamp="1665576000" data-date="Oct 12th 2022" data-time="2:00 pm" data-offset="7200">Oct 12th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>7.5k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	<li class="tabularListRow">
+		<ol
+			id="thread622944"
+			class="tabularListColumns messageGroup wbbThread jsClipboardObject"
+			data-thread-id="622944" data-element-id="622944"						data-is-link="0"
+		>
+									<li class="columnIcon columnAvatar">
+				<div>
+					<p><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/02/55861-02cb2715e4b85d40ddc17e2e8baf12e40b56f91f.png" width="48" height="48" alt="" class="userAvatarImage"></p>
+
+
+
+
+				</div>
+			</li>
+							<li class="columnSubject">
+
+					<h3>
+
+
+																					<a href="https://board.tr.metin2.gameforge.com/index.php?thread/622944-%C3%B6b%C3%BCr-d%C3%BCnyaya-seyahat/" class="messageGroupLink wbbTopicLink" data-thread-id="622944">Öbür Dünyaya Seyahat</a>
+
+											</h3>
+
+					<aside class="statusDisplay">
+						<ul class="inlineList statusIcons">
+							<li class="wcfLikeCounter likeCounterLiked"><span class="icon icon16 fa-thumbs-o-up jsTooltip" title="3 Likes"></span><span class="wcfLikeValue">+3</span></li>																																																	
+
+
+
+													</ul>
+					</aside>
+
+					<ul class="inlineList dotSeparated small messageGroupInfo">
+						<li class="messageGroupAuthor"><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/204758-pegasustr/" class="userLink" data-user-id="204758">PegasusTR</a></li>
+						<li class="messageGroupTime"><time datetime="2022-10-05T12:00:00+02:00" class="datetime" data-timestamp="1664964000" data-date="Oct 5th 2022" data-time="12:00 pm" data-offset="7200">Oct 5th 2022</time></li>
+
+					</ul>
+
+					<ul class="messageGroupInfoMobile">
+						<li class="messageGroupAuthorMobile">PegasusTR</li>
+						<li class="messageGroupLastPostTimeMobile"><time datetime="2022-10-05T12:00:00+02:00" class="datetime" data-timestamp="1664964000" data-date="Oct 5th 2022" data-time="12:00 pm" data-offset="7200">Oct 5th 2022</time></li>
+					</ul>
+
+
+
+				</li>
+				<li class="columnStats">
+					<dl class="plain statsDataList">
+						<dt>Replies</dt>
+						<dd>0</dd>
+					</dl>
+					<dl class="plain statsDataList">
+						<dt>Views</dt>
+						<dd>3.1k</dd>
+					</dl>
+
+					<div class="messageGroupListStatsSimple"></div>
+				</li>
+
+				<li class="columnLastPost">
+									</li>
+
+
+		</ol>
+	</li>
+	</ol>
+</div>
+
+	<div id="wbbBoardSortFilter" class="jsStaticDialogContent" data-title="Filter">
+	<form method="post" action="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/">
+
+
+		<section class="section">
+			<h2 class="sectionTitle">Display Options</h2>
+
+
+			<dl>
+				<dt><label for="filterByDate">Time Period</label></dt>
+				<dd>
+					<select id="filterByDate" name="filterByDate">
+						<option value="1">24 Hours</option>
+						<option value="3">3 Days</option>
+						<option value="7">7 Days</option>
+						<option value="14">14 Days</option>
+						<option value="30">30 Days</option>
+						<option value="60">60 Days</option>
+						<option value="100">100 Days</option>
+						<option value="365">365 Days</option>
+						<option value="1000" selected>From Any Date</option>
+					</select>
+				</dd>
+			</dl>
+
+			<dl>
+				<dt><label for="filterByStatus">Status</label></dt>
+				<dd>
+					<select id="filterByStatus" name="filterByStatus">
+						<option value="">(No Selection)</option>
+						<option value="read">Read</option>
+						<option value="unread">Unread</option>
+												<option value="closed">Closed</option>
+						<option value="open">Open</option>
+
+					</select>
+				</dd>
+			</dl>
+		</section>
+
+		<div class="formSubmit">
+			<input type="submit" value="Submit" accesskey="s">
+			<input type="hidden" name="tagID" value="0">
+			<input type="hidden" name="sortField" value="lastPostTime">
+			<input type="hidden" name="sortOrder" value="DESC">
+		</div>
+	</form>
+</div>
+<footer class="contentFooter">
+					<div class="paginationBottom">
+				<nav class="pagination" data-link="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=%d" data-pages="5">
+<ul>
+<li class="skip disabled"><span class="icon icon24 fa-chevron-left"></span></li>
+<li class="active"><span>1</span><span class="invisible">Page 1 of 5</span></li>
+<li><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=2" title="Page 2">2</a></li>
+<li><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=3" title="Page 3">3</a></li>
+<li><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=4" title="Page 4">4</a></li>
+<li><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=5" title="Page 5">5</a></li>
+<li class="skip"><a href="https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/&amp;pageNo=2" title="Next Page" class="icon icon24 fa-chevron-right jsTooltip"></a></li>
+</ul></nav>
+			</div>
+
+
+
+	</footer>
+
+
+</div>
+
+
+
+				<aside class="sidebar boxesSidebarRight" data-show-sidebar="Show Sidebar" data-hide-sidebar="Hide Sidebar">
+					<div class="boxContainer">
+
+
+
+
+
+
+									<div class="box" data-box-identifier="com.woltlab.wcf.genericBox23">
+
+
+	<div class="boxContent">
+		<center><a href="https://tr.metin2.gameforge.com/landing/partner?kid=" target="_blank"><img height="75%" width="75%" src="https://image.board.gameforge.com/uploads/iis/2020-04-23_M2_Metin2_Forum_Logo_with_PLAY_NOW_Addition.png"></a></center>	</div>
+</div>									<section class="box" data-box-identifier="com.woltlab.wbb.HotThreads">
+
+			<h2 class="boxTitle">
+							Hot Threads					</h2>
+
+	<div class="boxContent">
+		<ul class="sidebarItemList">
+			<li class="box24">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624409-kurban-bayram%C4%B1-etkinlikleri/"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="24" height="24" alt="" class="userAvatarImage"></a>
+
+			<div class="sidebarItemTitle">
+				<h3><a href="https://board.tr.metin2.gameforge.com/index.php?thread/624409-kurban-bayram%C4%B1-etkinlikleri/"  class="wbbTopicLink" data-thread-id="624409" data-sort-order="DESC">Kurban Bayramı Etkinlikleri</a></h3>
+													<small>0 Replies, 1,562 Views, 2 days ago</small>
+							</div>
+		</li>
+			<li class="box24">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624291-t%C3%BCrkiye-marmara-ege-bagjanamu-sunucular%C4%B1-haziran-etkinlik-takvimi/"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/20/68771-2016e4c73a95d08c2bee057df0a94c49021ceaa6.jpg" width="24" height="24" alt="" class="userAvatarImage"></a>
+
+			<div class="sidebarItemTitle">
+				<h3><a href="https://board.tr.metin2.gameforge.com/index.php?thread/624291-t%C3%BCrkiye-marmara-ege-bagjanamu-sunucular%C4%B1-haziran-etkinlik-takvimi/"  class="wbbTopicLink" data-thread-id="624291" data-sort-order="DESC">Türkiye &amp; Marmara &amp; Ege &amp; Bagjanamu Sunucuları Haziran Etkinlik Takvimi</a></h3>
+													<small>0 Replies, 14,732 Views, 4 weeks ago</small>
+							</div>
+		</li>
+			<li class="box24">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624323-haziran-da-g%C3%BC%C3%A7l%C3%BC-macera-etkinlikleri/"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="24" height="24" alt="" class="userAvatarImage"></a>
+
+			<div class="sidebarItemTitle">
+				<h3><a href="https://board.tr.metin2.gameforge.com/index.php?thread/624323-haziran-da-g%C3%BC%C3%A7l%C3%BC-macera-etkinlikleri/"  class="wbbTopicLink" data-thread-id="624323" data-sort-order="DESC">Haziran'da güçlü macera etkinlikleri</a></h3>
+													<small>0 Replies, 9,116 Views, 3 weeks ago</small>
+							</div>
+		</li>
+			<li class="box24">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624324-okey-oyununda-galibiyeti-yakala/"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="24" height="24" alt="" class="userAvatarImage"></a>
+
+			<div class="sidebarItemTitle">
+				<h3><a href="https://board.tr.metin2.gameforge.com/index.php?thread/624324-okey-oyununda-galibiyeti-yakala/"  class="wbbTopicLink" data-thread-id="624324" data-sort-order="DESC">Okey Oyununda Galibiyeti Yakala</a></h3>
+													<small>0 Replies, 4,045 Views, 2 weeks ago</small>
+							</div>
+		</li>
+			<li class="box24">
+							<a href="https://board.tr.metin2.gameforge.com/index.php?thread/624361-cehennem-zorlu%C4%9Funda-%C3%B6b%C3%BCr-d%C3%BCnya-etkinli%C4%9Fi/"><img src="https://board.tr.metin2.gameforge.com/wcf/images/avatars/42/50990-420a5e4772f35a28d07d6232c395f9c6cd1c7941.png" width="24" height="24" alt="" class="userAvatarImage"></a>
+
+			<div class="sidebarItemTitle">
+				<h3><a href="https://board.tr.metin2.gameforge.com/index.php?thread/624361-cehennem-zorlu%C4%9Funda-%C3%B6b%C3%BCr-d%C3%BCnya-etkinli%C4%9Fi/"  class="wbbTopicLink" data-thread-id="624361" data-sort-order="DESC">Cehennem Zorluğunda Öbür Dünya Etkinliği</a></h3>
+													<small>0 Replies, 2,541 Views, A week ago</small>
+							</div>
+		</li>
+	</ul>	</div>
+</section>								
+
+
+											</div>
+				</aside>
+					</div>
+	</section>
+
+
+
+			<div class="boxesFooterBoxes">
+			<div class="layoutBoundary">
+				<div class="boxContainer">
+					<section class="box">
+			<h2 class="boxTitle">Statistics</h2>
+
+			<div class="boxContent">
+				<ul class="inlineList dotSeparated">
+<li>196 Threads</li>
+<li>306 Posts (0.21 Posts per Day)</li>
+</ul>
+			</div>
+		</section>
+
+
+
+													<section class="box" data-box-identifier="com.woltlab.wcf.UsersOnline">
+
+			<h2 class="boxTitle">
+							<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?users-online-list/">Users Online</a>
+					</h2>
+
+	<div class="boxContent">
+		<ul class="inlineList dotSeparated">
+	<li>
+	8 Members 
+and	32 Guests</li>
+	</ul>
+
+	<ul class="inlineList commaSeparated">
+					<li><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/467964-94aliuslu/" class="userLink" data-user-id="467964">94aliuslu</a></li>
+					<li><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/464724-eagle63/" class="userLink" data-user-id="464724">Eagle63</a></li>
+					<li><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/464522-ekremb3457/" class="userLink" data-user-id="464522">ekremb3457</a></li>
+					<li><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/440217-hayelperes/" class="userLink" data-user-id="440217">HaYeLPeReS</a></li>
+					<li><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/463705-ilbeyyk/" class="userLink" data-user-id="463705">ilbeyyK</a></li>
+					<li><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/466222-m2mertgrg/" class="userLink" data-user-id="466222">m2mertgrg</a></li>
+					<li><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/466068-samuo/" class="userLink" data-user-id="466068">samuo</a></li>
+					<li><a href="https://board.tr.metin2.gameforge.com/wcf/index.php?user/467288-yusufaydn/" class="userLink" data-user-id="467288">yusufaydn</a></li>
+			</ul>
+
+	<dl class="plain inlineDataList usersOnlineLegend">
+		<dt>Legend</dt>
+		<dd>
+			<ul class="inlineList commaSeparated">
+									<li><font color=#0987f4><strong>Community Manager</font></strong></li>
+									<li><font color=#CCFF33 face="tahoma" size=3><strong><i>Team Leader</i></strong></font></li>
+									<li><font color=#00FF99 size=2><strong>Game Admin</font></strong></li>
+									<li><font color=#00FFCC size=2><strong><i>Süper Game Master</font></strong></i></li>
+									<li><font color=#00FFFF>Game Master</font></li>
+									<li><font color=#33CCFF>Trial Game Master</font></li>
+									<li><font color=#FF33FF>Fosil Üye</font></li>
+									<li><font color=#33FF33 size=2><strong><i>Süper Moderatör</font></strong></i></li>
+									<li><font color=#33FF66>Moderatör</font></li>
+									<li><font color=#9b59b6>Wiki Moderatör</font></li>
+									<li><font color=66FF00 size="4" face="Lato" ><strong><i>Board Administrator</i></strong></font></li>
+									<li><font color=#33CC66 face="tahoma" size=2><strong><i>Trial Moderatör</i></strong></font></li>
+									<li><font color=#66CCFF size=2><strong><i>Discord Ekibi</i></strong></font></li>
+									<li><strike>Atıldı</strike></li>
+							</ul>
+		</dd>
+
+	</dl>
+	</div>
+</section>
+				</div>
+			</div>
+		</div>
+
+
+	<footer id="pageFooter" class="pageFooter">
+
+
+			<div class="boxesFooter">
+			<div class="layoutBoundary">
+													<div class="boxContainer">
+						<div class="box" data-box-identifier="com.woltlab.wcf.FooterMenu">
+
+
+	<div class="boxContent">
+		<nav>
+	<ol class="boxMenu">
+
+
+					<li class="" data-identifier="com.woltlab.wcf.generic18">
+				<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?legal-links/" class="boxMenuLink">
+					<span class="boxMenuLinkTitle">Yasal Uyarılar</span>
+									</a>
+
+				</li>					
+
+
+	</ol>
+</nav>	</div>
+</div>
+					</div>
+
+			</div>
+		</div>
+
+			<div id="pageFooterCopyright" class="pageFooterCopyright">
+			<div class="layoutBoundary">
+				<div class="copyright"><a href="https://www.woltlab.com" rel="nofollow" target="_blank">Powered by <strong>WoltLab Suite&trade;</strong></a></div>
+			</div>
+		</div>
+
+</footer>
+</div>
+
+<div id="pageMainMenuMobile" class="pageMainMenuMobile menuOverlayMobile" data-page-logo="https://image.board.gameforge.com/uploads/metin2/tr/Other_metin2_tr_2020_096a757283917064c9755ec1eab698bb.png">
+	<ol class="menuOverlayItemList" data-title="Menu">
+		<li class="menuOverlayTitle">Navigation</li>
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic19">
+								<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?legal-links/" class="menuOverlayItemLink">
+					<span class="menuOverlayItemTitle">Yasal Uyarılar</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic16">
+								<a href="https://discordapp.com/invite/metin2" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">💬 Discord 💬</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic17">
+								<a href="https://metin2.support.gameforge.com/index.php" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Destek Sistemi (Ticket)</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wbb.BoardList">
+								<a href="https://board.tr.metin2.gameforge.com/" class="menuOverlayItemLink active">
+					<span class="menuOverlayItemTitle">Forum</span>
+									</a>
+
+				<ol class="menuOverlayItemList">					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.Dashboard">
+								<a href="https://board.tr.metin2.gameforge.com/wcf/" class="menuOverlayItemLink">
+					<span class="menuOverlayItemTitle">Son Konular</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wbb.UnresolvedThreadList">
+								<a href="https://board.tr.metin2.gameforge.com/index.php?unresolved-thread-list/" class="menuOverlayItemLink">
+					<span class="menuOverlayItemTitle">Tamamlanmamış Konular</span>
+									</a>
+
+				</li>					
+											</ol></li>										
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic20">
+								<a href="https://gameforge.com/tr-TR/browser-games/browser-oyunlari/?origin=forums" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Browser oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic21">
+								<a href="https://gameforge.com/tr-TR/mmorpg/?origin=forums" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">MMORPG</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic22">
+								<a href="https://gameforge.com/tr-TR/littlegames/?origin=forums" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Ücretsiz oyunlar</span>
+									</a>
+
+				<ol class="menuOverlayItemList">					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic23">
+								<a href="https://gameforge.com/tr-TR/littlegames/yilan-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Yılan oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic24">
+								<a href="https://gameforge.com/tr-TR/littlegames/kizlar-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Kızlar oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic25">
+								<a href="https://gameforge.com/tr-TR/littlegames/zeka-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Zeka Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic26">
+								<a href="https://gameforge.com/tr-TR/littlegames/kelime-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Kelime oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic27">
+								<a href="https://gameforge.com/tr-TR/littlegames/io-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">.io Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic28">
+								<a href="https://gameforge.com/tr-TR/littlegames/top-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Top oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic29">
+								<a href="https://gameforge.com/tr-TR/littlegames/futbol-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Futbol oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic30">
+								<a href="https://gameforge.com/tr-TR/littlegames/giydirme-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Giydirme Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic31">
+								<a href="https://gameforge.com/tr-TR/littlegames/yeni-oyunlar/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Yeni Oyunlar</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic32">
+								<a href="https://gameforge.com/tr-TR/littlegames/zombiler-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Zombi Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic33">
+								<a href="https://gameforge.com/tr-TR/littlegames/yarisma-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Yarışma Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic34">
+								<a href="https://gameforge.com/tr-TR/littlegames/yaris-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Yarış oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic35">
+								<a href="https://gameforge.com/tr-TR/littlegames/erkek-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Erkek Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic36">
+								<a href="https://gameforge.com/tr-TR/littlegames/pasta-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Pasta Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic37">
+								<a href="https://gameforge.com/tr-TR/littlegames/asker-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Asker oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic38">
+								<a href="https://gameforge.com/tr-TR/littlegames/dovus-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Dövüş Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic39">
+								<a href="https://gameforge.com/tr-TR/littlegames/polis-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Polis oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic40">
+								<a href="https://gameforge.com/tr-TR/littlegames/bulmaca-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Bulmaca Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic41">
+								<a href="https://gameforge.com/tr-TR/littlegames/aksiyon-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Aksiyon Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic42">
+								<a href="https://gameforge.com/tr-TR/littlegames/yapboz-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Yapboz Oyunları</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic43">
+								<a href="https://gameforge.com/tr-TR/littlegames/makyaj-oyunlari/" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Makyaj Oyunları</span>
+									</a>
+
+				</li>					
+											</ol></li>										
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic44">
+								<a href="https://gameforge.com/en-US/gmag/?origin=forums" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">GMag</span>
+									</a>
+
+				<ol class="menuOverlayItemList">					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic45">
+								<a href="https://gameforge.com/en-US/gmag/video-games/?origin=forums" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Video Games</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic46">
+								<a href="https://gameforge.com/en-US/gmag/movies/?origin=forums" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Movies</span>
+									</a>
+
+				</li>					
+
+			<li class="menuOverlayItem" data-mobile-identifier="com.woltlab.wcf.generic47">
+								<a href="https://gameforge.com/en-US/gmag/series/?origin=forums" class="menuOverlayItemLink" target="_blank">
+					<span class="menuOverlayItemTitle">Series</span>
+									</a>
+
+				</li>					
+											</ol></li>									<li class="menuOverlayItemSpacer"></li>
+		<li class="menuOverlayItem" data-more="com.woltlab.wcf.search">
+			<a href="#" class="menuOverlayItemLink box24">
+				<span class="icon icon24 fa-search"></span>
+				<span class="menuOverlayItemTitle">Search</span>
+			</a>
+		</li>
+		<li class="menuOverlayItem" id="pageMainMenuMobilePageOptionsContainer">
+			<a href="#" class="menuOverlayItemLink box24">
+				<span class="icon icon24 fa-gears"></span>
+				<span class="menuOverlayItemTitle">Options</span>
+			</a>
+			<ol class="menuOverlayItemList">
+				<li class="menuOverlayItem jsMenuOverlayItemPlaceholder"><a href="#">(placeholder)</a></li>
+			</ol>
+		</li>
+
+
+
+					<li class="menuOverlayTitle">Current Location</li>
+			<li class="menuOverlayItem">
+						<a href="https://board.tr.metin2.gameforge.com/wcf/" class="menuOverlayItemLink">
+							<span class="box24">
+								<span class="icon icon24 fa-home"></span>
+								<span class="menuOverlayItemTitle">Metin2 Türkiye</span>
+							</span>
+						</a>
+					</li>
+														<li class="menuOverlayItem">
+						<a href="https://board.tr.metin2.gameforge.com/" class="menuOverlayItemLink">
+							<span style="padding-left: 20px"  class="box24">
+								<span class="icon icon24 fa-caret-right"></span>
+								<span class="menuOverlayItemTitle">Forum</span>
+							</span>
+						</a>
+					</li>
+														<li class="menuOverlayItem">
+						<a href="https://board.tr.metin2.gameforge.com/index.php?board/23-duyurular/" class="menuOverlayItemLink">
+							<span style="padding-left: 40px"  class="box24">
+								<span class="icon icon24 fa-caret-right"></span>
+								<span class="menuOverlayItemTitle">Duyurular</span>
+							</span>
+						</a>
+					</li>
+														<li class="menuOverlayItem">
+						<a href="https://board.tr.metin2.gameforge.com/index.php?board/766-etkinlikler/" class="menuOverlayItemLink">
+							<span style="padding-left: 60px"  class="box24">
+								<span class="icon icon24 fa-caret-right"></span>
+								<span class="menuOverlayItemTitle">Etkinlikler</span>
+							</span>
+						</a>
+					</li>
+
+	</ol>
+</div>
+
+
+<div id="pageUserMenuMobile" class="pageUserMenuMobile menuOverlayMobile" data-page-logo="https://image.board.gameforge.com/uploads/metin2/tr/Other_metin2_tr_2020_096a757283917064c9755ec1eab698bb.png">
+	<ol class="menuOverlayItemList" data-title="User Menu">
+
+			<li class="menuOverlayTitle">User Menu</li>
+							<li class="menuOverlayItem" data-more="com.woltlab.wcf.login">
+					<a href="#" class="menuOverlayItemLink box24">
+						<span class="icon icon24 fa-sign-in"></span>
+						<span class="menuOverlayItemTitle">Login</span>
+					</a>
+				</li>
+										<li class="menuOverlayItem">
+					<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?register/" class="menuOverlayItemLink box24">
+						<span class="icon icon24 fa-user-plus"></span>
+						<span class="menuOverlayItemTitle">Registration</span>
+					</a>
+				</li>
+
+
+
+							<li class="menuOverlayItemSpacer"></li>
+				<li class="menuOverlayTitle">Language</li>
+				<li class="menuOverlayItem">
+					<a href="#" class="menuOverlayItemLink box24">
+						<img src="https://board.tr.metin2.gameforge.com/wcf/icon/flag/gb.svg" alt="">
+						<span class="menuOverlayItemTitle">English</span>
+					</a>
+					<ol class="menuOverlayItemList" data-title="Language">
+													<li class="menuOverlayItem" data-more="com.woltlab.wcf.language" data-language-code="de" data-language-id="1">
+								<a href="#" class="menuOverlayItemLink box24">
+									<img src="https://board.tr.metin2.gameforge.com/wcf/icon/flag/de.svg" alt="">
+									<span class="menuOverlayItemTitle">Deutsch</span>
+								</a>
+							</li>
+													<li class="menuOverlayItem" data-more="com.woltlab.wcf.language" data-language-code="en" data-language-id="2">
+								<a href="#" class="menuOverlayItemLink box24">
+									<img src="https://board.tr.metin2.gameforge.com/wcf/icon/flag/gb.svg" alt="">
+									<span class="menuOverlayItemTitle">English</span>
+								</a>
+							</li>
+													<li class="menuOverlayItem" data-more="com.woltlab.wcf.language" data-language-code="tr" data-language-id="4">
+								<a href="#" class="menuOverlayItemLink box24">
+									<img src="https://board.tr.metin2.gameforge.com/wcf/icon/flag/tr.svg" alt="">
+									<span class="menuOverlayItemTitle">Türkce</span>
+								</a>
+							</li>
+											</ol>
+				</li>
+						</ol>
+</div>
+
+
+
+<div class="pageFooterStickyNotice">
+			<div class="info cookiePolicyNotice">
+			<div class="layoutBoundary">
+				<span class="cookiePolicyNoticeText">This site uses cookies. By continuing to browse this site, you are agreeing to our use of cookies.</span>
+				<a href="https://board.tr.metin2.gameforge.com/wcf/index.php?cookie-policy/" class="button buttonPrimary small cookiePolicyNoticeMoreInformation">More Details</a>
+				<a href="#" class="button small jsOnly cookiePolicyNoticeDismiss">Close</a>
+				</div>
+		</div>
+
+
+
+	<noscript>
+		<div class="info">
+			<div class="layoutBoundary">
+				<span class="javascriptDisabledWarningText">Your browser has JavaScript disabled. If you would like to use all features of this site, it is mandatory to enable JavaScript.</span>
+			</div>
+		</div>	
+	</noscript>
+</div>
+
+<script>
+	require(['Language', 'WoltLabSuite/Core/BootstrapFrontend', 'User'], function(Language, BootstrapFrontend, User) {
+		Language.addObject({
+			'__days': [ 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday' ],
+			'__daysShort': [ 'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat' ],
+			'__months': [ 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December' ], 
+			'__monthsShort': [ 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec' ],
+			'wcf.clipboard.item.unmarkAll': 'Unmark All',
+			'wcf.date.relative.now': 'A moment ago',
+			'wcf.date.relative.minutes': '{if $minutes > 1}{#$minutes} minutes{else}A minute{\/if} ago',
+			'wcf.date.relative.hours': '{if $hours > 1}{#$hours} hours{else}An hour{\/if} ago',
+			'wcf.date.relative.pastDays': '{if $days > 1}{$day}{else}Yesterday{\/if}, {$time}',
+			'wcf.date.dateFormat': 'M jS Y',
+			'wcf.date.dateTimeFormat': '%date%, %time%',
+			'wcf.date.shortDateTimeFormat': '%date%',
+			'wcf.date.hour': 'Hour',
+			'wcf.date.minute': 'Minute',
+			'wcf.date.timeFormat': 'g:i a',
+			'wcf.date.firstDayOfTheWeek': '0',
+			'wcf.global.button.add': 'Add',
+			'wcf.global.button.cancel': 'Cancel',
+			'wcf.global.button.close': 'Close',
+			'wcf.global.button.collapsible': 'Expand and Collapse',
+			'wcf.global.button.delete': 'Delete',
+			'wcf.global.button.disable': 'Disable',
+			'wcf.global.button.disabledI18n': 'monolingual',
+			'wcf.global.button.edit': 'Edit',
+			'wcf.global.button.enable': 'Enable',
+			'wcf.global.button.hide': 'Hide',
+			'wcf.global.button.insert': 'Insert',
+			'wcf.global.button.next': 'Next »',
+			'wcf.global.button.preview': 'Preview',
+			'wcf.global.button.reset': 'Reset',
+			'wcf.global.button.save': 'Save',
+			'wcf.global.button.search': 'Search',
+			'wcf.global.button.submit': 'Submit',
+			'wcf.global.button.upload': 'Upload',
+			'wcf.global.confirmation.cancel': 'Cancel',
+			'wcf.global.confirmation.confirm': 'OK',
+			'wcf.global.confirmation.title': 'Confirmation Required',
+			'wcf.global.decimalPoint': '.',
+			'wcf.global.error.timeout': 'Did not receive a response from server, request aborted.',
+			'wcf.global.form.error.empty': 'Please fill in this field.',
+			'wcf.global.form.error.greaterThan': 'The entered value has to be greater than {#$greaterThan}.',
+			'wcf.global.form.error.lessThan': 'The entered value has to be less than {#$lessThan}.',
+			'wcf.global.form.error.multilingual': 'Please fill in this field for all languages.',
+			'wcf.global.form.input.maxItems': 'Maximum items reached',
+			'wcf.global.language.noSelection': 'No Selection',
+			'wcf.global.loading': 'Loading …',
+			'wcf.global.noSelection': '(No Selection)',
+			'wcf.global.select': 'Select',
+			'wcf.page.jumpTo': 'Go to Page',
+			'wcf.page.jumpTo.description': 'Enter a value between “1” and “#pages#”.',
+			'wcf.global.page.pagination': 'Navigation',
+			'wcf.global.page.next': 'Next Page',
+			'wcf.global.page.previous': 'Previous Page',
+			'wcf.global.pageDirection': 'ltr',
+			'wcf.global.reason': 'Reason',
+			'wcf.global.scrollUp': 'Go to Page Top',
+			'wcf.global.success': 'The action completed successfully.',
+			'wcf.global.success.add': 'The entry has been saved.',
+			'wcf.global.success.edit': 'Your changes have been saved.',
+			'wcf.global.thousandsSeparator': ',',
+			'wcf.page.pagePosition': 'Page {#$pageNo} of {#$pages}',
+			'wcf.style.changeStyle': 'Change Style',
+			'wcf.user.activityPoint': 'Points',
+			'wcf.user.panel.markAllAsRead': 'Mark All as Read',
+			'wcf.user.panel.markAsRead': 'Mark as Read',
+			'wcf.user.panel.settings': 'Settings',
+			'wcf.user.panel.showAll': 'Display All',
+			'wcf.menu.page': 'Menu',
+			'wcf.menu.user': 'User Menu'
+							,'wcf.like.button.like': 'Like',
+				'wcf.like.button.dislike': 'Dislike',
+				'wcf.like.tooltip': '{if $likes}{#$likes} Like{if $likes != 1}s{/if}{if $dislikes}, {/if}{/if}{if $dislikes}{#$dislikes} Dislike{if $dislikes != 1}s{/if}{/if}',
+				'wcf.like.summary': '{if $others == 0}{@$users.slice(0, -1).join(", ")}{if $users.length > 1} and {/if}{@$users.slice(-1)[0]}{else}{@$users.join(", ")} and {if $others == 1}one{else}{#$others}{/if} other{if $others > 1}s{/if}{/if} like{if $users.length == 1}s{/if} this.',
+				'wcf.like.details': 'Details'
+
+
+                ,'wcf.global.fontawesome.title': 'Font Awesome Icons',
+                'wcf.global.fontawesome.icons': 'Icons',
+                'wcf.global.fontawesome.search': 'Icon search',
+                'wcf.global.fontawesome.confirm': 'Select Icon',
+                'wcf.global.fontawesome.cancel': 'Cancel'
+
+		});
+
+		BootstrapFrontend.setup({
+			backgroundQueue: {
+				url: 'https://board.tr.metin2.gameforge.com/wcf/index.php?background-queue-perform/',
+				force: false			},
+			enableUserPopover: false,
+			styleChanger: false		});
+
+		User.init(0, '', '');
+	});
+
+	// prevent jQuery and other libraries from utilizing define()
+	__require_define_amd = define.amd;
+	define.amd = undefined;
+</script>
+
+
+<script src="https://board.tr.metin2.gameforge.com/wcf/js/WCF.Combined.tiny.min.js?v=1655892401"></script>
+
+
+<script>
+	define.amd = __require_define_amd;
+	$.holdReady(true);
+
+	WCF.User.init(0, '');
+</script>
+
+
+
+
+
+<script>
+	$(function() {
+		WCF.System.PageNavigation.init('.pagination');
+		WCF.User.Profile.ActivityPointList.init();
+
+					require(['WoltLabSuite/Core/Ui/User/Trophy/List'], function (UserTrophyList) {
+				new UserTrophyList();
+			});
+
+
+
+
+					new WCF.System.KeepAlive(1740);
+
+						});
+</script>
+
+
+<script>
+		var $imageViewer = null;
+		$(function() {
+			WCF.Language.addObject({
+				'wcf.imageViewer.button.enlarge': 'Full Screen Mode',
+				'wcf.imageViewer.button.full': 'View Source Image',
+				'wcf.imageViewer.seriesIndex': '{literal}{x} of {y}{/literal}',
+				'wcf.imageViewer.counter': 'Image {x} of {y}',
+				'wcf.imageViewer.close': 'Close',
+				'wcf.imageViewer.enlarge': 'View Full Image',
+				'wcf.imageViewer.next': 'Next Image',
+				'wcf.imageViewer.previous': 'Previous Image'
+			});
+
+			$imageViewer = new WCF.ImageViewer();
+		});
+
+		// WCF 2.0 compatibility, dynamically fetch slimbox and initialize it with the request parameters
+		$.widget('ui.slimbox', {
+			_create: function() {
+				var self = this;
+				head.load('https://board.tr.metin2.gameforge.com/wcf/js/3rdParty/slimbox2.min.js', function() {
+					self.element.slimbox(self.options);
+				});
+			}
+		});
+	</script>
+
+
+
+<script>
+	WCF.Language.addObject({
+
+		'wcf.global.error.title': 'Error Message'
+
+
+
+	});
+</script>
+
+
+
+<script src="https://board.tr.metin2.gameforge.com/js/WBB.tiny.min.js?v=1655892401"></script>
+
+
+<script>
+	$(function() {
+
+		new WBB.Post.Preview();
+	});
+</script>
+
+
+
+<script>
+						require(['EventHandler', 'WoltLabSuite/Core/Language/Chooser'], function(EventHandler, LanguageChooser) {
+							var languages = {
+																	'1': {
+										iconPath: 'https:\/\/board.tr.metin2.gameforge.com\/wcf\/icon\/flag\/de.svg',
+										languageName: 'Deutsch',
+										languageCode: 'de'
+									}
+								, 									'2': {
+										iconPath: 'https:\/\/board.tr.metin2.gameforge.com\/wcf\/icon\/flag\/gb.svg',
+										languageName: 'English',
+										languageCode: 'en'
+									}
+								, 									'4': {
+										iconPath: 'https:\/\/board.tr.metin2.gameforge.com\/wcf\/icon\/flag\/tr.svg',
+										languageName: 'Türkce',
+										languageCode: 'tr'
+									}
+															};
+
+							var callback = function(listItem) {
+								var location;
+								var languageCode = elData(listItem, 'language-code');
+								var link = elBySel('link[hreflang="' + languageCode + '"]');
+								if (link !== null) {
+									location = link.href;
+								}
+								else {
+									location = window.location.toString().replace(/#.*/, '').replace(/(\?|&)l=[0-9]+/g, '');
+								}
+
+								var delimiter = (location.indexOf('?') == -1) ? '?' : '&';
+								window.location = location + delimiter + 'l=' + elData(listItem, 'language-id') + window.location.hash;
+							};
+
+							LanguageChooser.init('pageLanguageContainer', 'pageLanguageID', 2, languages, callback);
+							EventHandler.add('com.woltlab.wcf.UserMenuMobile', 'more', function(data) {
+								if (data.identifier === 'com.woltlab.wcf.language') {
+									callback(data.parent);
+								}
+							});
+						});
+					</script>
+
+<script>
+						$(function() {
+							WCF.Language.addObject({
+								'wcf.user.button.login': 'Login',
+								'wcf.user.button.register': 'Register',
+								'wcf.user.login': 'Login'
+							});
+							new WCF.User.Login(true);
+						});
+					</script>
+
+<script>
+		require(['WoltLabSuite/Core/Ui/Search/Page'], function(UiSearchPage) {
+			UiSearchPage.init('com.woltlab.wbb.post');
+		});
+	</script>
+
+<script>
+			require(['WoltLabSuite/Core/Ui/Page/Header/Fixed'], function(UiPageHeaderFixed) {
+				UiPageHeaderFixed.init();
+			});
+		</script>
+
+<script>
+			require(['WoltLabSuite/Core/Controller/Notice/Dismiss'], function(ControllerNoticeDismiss) {
+				ControllerNoticeDismiss.setup();
+			});
+		</script>
+
+
+
+
+<script>
+	require(['EventHandler'], function (EventHandler) {
+		var container = elById('wbbBoardSortFilter');
+		EventHandler.add('com.woltlab.wcf.dialog', 'openStatic', function (data) {
+			if (data.id === 'wbbBoardSortFilter') {
+				var isSingleSection = (elBySelAll('form > .section', data.content).length === 1);
+				container.classList[isSingleSection ? 'add' : 'remove']('jsBoardSortFilterSingleSection');
+			}
+		});
+	});
+</script>
+
+
+<script>
+	$(function() {
+		WCF.Language.addObject({
+			'wbb.post.copy.title': 'Copy Posts',
+			'wbb.post.moveToNewThread': 'Move Into a New Thread',
+			'wbb.thread.closed': 'Closed',
+			'wbb.thread.confirmDelete': 'Do you really want to delete this thread, it cannot be reverted?',
+			'wbb.thread.confirmTrash': 'Do you really want to move this thread to the trash?',
+			'wbb.thread.confirmTrash.reason': 'Reason (optional)',
+			'wbb.thread.copy.title': 'Copy Thread ({$item} of {$count})',
+			'wbb.thread.done': 'Thread is marked as Resolved.',
+			'wbb.thread.edit.advanced': 'More Options',
+			'wbb.thread.edit.assignLabel': 'Assign Labels',
+			'wbb.thread.edit.close': 'Close',
+			'wbb.thread.edit.delete': 'Delete',
+			'wbb.thread.edit.done': 'Mark as Resolved',
+			'wbb.thread.edit.enable': 'Approve',
+			'wbb.thread.edit.disable': 'Disable',
+			'wbb.thread.edit.merge': 'Merge Threads',
+			'wbb.thread.edit.merge.success': 'The threads have been merged.',
+			'wbb.thread.edit.move': 'Move',
+			'wbb.thread.edit.open': 'Open',
+			'wbb.thread.edit.removeLink': 'Remove Redirection Notice',
+			'wbb.thread.edit.restore': 'Restore',
+			'wbb.thread.edit.scrape': 'Unpin',
+			'wbb.thread.edit.sticky': 'Pin',
+			'wbb.thread.edit.trash': 'Move to Trash',
+			'wbb.thread.edit.undone': 'Mark as Unresolved',
+			'wbb.thread.moved': 'Moved',
+			'wbb.thread.sticky': 'Pinned',
+			'wbb.thread.undone': 'Thread is Unresolved',
+			'wbb.thread.edit.moveThreads': 'Move Threads',
+			'wbb.thread.edit': 'Edit Thread',
+			'wcf.global.worker.completed': 'Task completed',
+			'wcf.user.objectWatch.manageSubscription' : 'Manage Subscription'
+		});
+
+		var $updateHandler = new WBB.Thread.UpdateHandler.Board();
+		var $inlineEditor = new WBB.Thread.InlineEditor('.wbbThread');
+		$inlineEditor.setUpdateHandler($updateHandler);
+		$inlineEditor.setEnvironment('board', 688, 'https://board.tr.metin2.gameforge.com/index.php?board/688-oyun-event/');
+		$inlineEditor.setPermissions({
+			canCloseThread: false,
+			canDeleteThread: false,
+			canDeleteThreadCompletely: false,
+			canEnableThread: false,
+			canMoveThread: false,
+			canPinThread: false,
+			canRestoreThread: false		});
+
+		var $threadClipboard = new WBB.Thread.Clipboard($updateHandler, 'board', 688);
+		var $postClipboard = new WBB.Post.Clipboard(null);
+		WCF.Clipboard.init('wbb\\page\\BoardPage', 0, { }, 688);
+
+				new WBB.Thread.MarkAsRead();
+		new WBB.Board.MarkAllThreadsAsRead(688);
+
+		var $options = { };
+					$options.refreshPage = true;
+
+		new WCF.Table.EmptyTableHandler($('.wbbThreadList'), 'wbbThread', $options);
+
+
+		require(['WoltLabSuite/Forum/Ui/Mobile'], function(WbbUiMobile) {
+			WbbUiMobile.init();
+		});
+	});
+</script>
+
+
+
+
+
+
+<script>
+					elBySel('.cookiePolicyNoticeDismiss').addEventListener(WCF_CLICK_EVENT, function(event) {
+						event.preventDefault();
+
+						elRemove(elBySel('.cookiePolicyNotice'));
+					});
+				</script>
+
+
+
+<a id="bottom"></a>
+
+</body>
+</html>
