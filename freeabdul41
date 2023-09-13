@@ -1,0 +1,73 @@
+(function(){
+    if(window.BOOMR && window.BOOMR.version){return;}
+    var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+  
+    function boomerangSaveLoadTime(e) {
+      win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+    }
+    if (win.addEventListener) {
+      win.addEventListener("load", boomerangSaveLoadTime, false);
+    } else if (win.attachEvent) {
+      win.attachEvent("onload", boomerangSaveLoadTime);
+    }
+  
+    iframe.src = "javascript:false";
+    iframe.title = ""; iframe.role="presentation";
+    (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+    where = document.getElementsByTagName("script")[0];
+    where.parentNode.insertBefore(iframe, where);
+  
+    try {
+      doc = iframe.contentWindow.document;
+    } catch(e) {
+      dom = document.domain;
+      iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+      doc = iframe.contentWindow.document;
+    }
+    doc.open()._l = function() {
+      var js = this.createElement("script");
+      if(dom) this.domain = dom;
+      js.id = "boomr-if-as";
+      js.src = "https://s.go-mpulse.net/boomerang/" +
+      "LQ7B6-2JUJ6-ELACU-NCLE8-QGR2R";
+      BOOMR_lstart=new Date().getTime();
+      this.body.appendChild(js);
+    };
+    doc.write('<body onload="document._l();">');
+    doc.close();
+  })();
+</script>
+  <script>
+    function getCookieFCBT(name) {
+      var value = "; " + document.cookie;
+      var parts = value.split("; " + name + "=");
+      if (parts.length == 2) return parts.pop().split(";").shift();
+    }
+
+    function OptanonWrapper() { }
+
+window.onload = () => {
+  var host = window.location.host;
+
+  if ( host.match(/^(www\.elderscrollsonline)\./) !== null ) {
+    var oneTrust = document.createElement('script');
+    oneTrust.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
+    oneTrust.type = 'text/javascript';
+    oneTrust.charset = 'UTF-8';
+    oneTrust.dataset.domainScript = 'd62b17c2-4eb2-45eb-a9e6-6f8cf2bb5796';
+    document.body.appendChild(oneTrust);
+  }
+  else {
+    var oneTrustCdn = document.createElement('script');
+    oneTrustCdn.src = "https://cdn.cookielaw.org/consent/d62b17c2-4eb2-45eb-a9e6-6f8cf2bb5796-test/OtAutoBlock.js";
+    oneTrustCdn.type = 'text/javascript';
+    document.body.appendChild(oneTrustCdn);
+
+    var oneTrust = document.createElement('script');
+    oneTrust.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
+    oneTrust.type = 'text/javascript';
+    oneTrust.charset = 'UTF-8';
+    oneTrust.dataset.domainScript = 'd62b17c2-4eb2-45eb-a9e6-6f8cf2bb5796-test';
+    document.body.appendChild(oneTrust);
+  };
+}  </script>
