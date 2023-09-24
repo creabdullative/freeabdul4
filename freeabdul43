@@ -1,0 +1,53 @@
+function loadKill(id) {
+
+    var ind = "k-"+id;
+    if (true == requestedKills[ind]) {
+       return;
+    } else {
+        requestedKills[ind] = true;
+    }
+
+    var eventApiUrl = baseUrl + "api/gameinfo/events/"+id+"?f=1";
+    var killeventUrl = killboardUrl + "kill/"+id;
+
+    $.ajax( {
+        url: eventApiUrl,
+        xhrFields: {
+            withCredentials: true
+        },
+        crossDomain: true
+    }).done(function( json ) {
+
+            console.log( "JSON Data: ", json );
+
+            var ident = "kill-"+id;
+            var date  = new Date(json.TimeStamp);
+            var killFame = json.Killer.KillFame;
+
+            $(".kb-time-"+ident).html(date.getDate()+"."+(date.getMonth()+1)+"."+date.getFullYear()+" " + date.getHours() + ":" + date.getMinutes() + " UTC");
+
+            if (null != json.Killer.GuildName) {
+                var name = "<a href=\""+killboardUrl + "guild/" + json.Killer.GuildId + "\">[" + json.Killer.GuildName + "]</a> <a href=\""+killboardUrl+"player/"+json.Killer.Id+"\">" + json.Killer.Name + "</a>";
+                $(".kb-killer-"+ident).html(name);
+            } else {
+                $(".kb-killer-"+ident).html(json.Killer.Name);
+            }
+
+            if (null != json.Victim.GuildName) {
+                var name = "<a href=\"" + killboardUrl + "guild/" + json.Victim.GuildId + "\">[" + json.Victim.GuildName + "]</a> <a href=\"" + killboardUrl + "player/" + json.Victim.Id + "\">" + json.Victim.Name + "</a>";
+                $(".kb-victim-"+ident).html(name);
+            } else {
+                $(".kb-victim-"+ident).html(json.Victim.Name);
+            }
+
+            $(".kb-fame-"+ident).html(killFame.toLocaleString("en-US"));
+            $(".kb-item-"+ident).removeClass("kb-item--error");
+            $(".kb-item-link-kill-"+id).attr("href", killeventUrl);
+        })
+        .fail(function( jqxhr, textStatus, error ) {
+                $(".kb-item-kill-"+id).addClass("kb-item--error");
+                $(".kb-item-link-kill-"+id).removeAttr("href");
+                console.error("Request Failed");
+            }
+        );
+}
