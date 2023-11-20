@@ -1,0 +1,38 @@
+var email_templates = {
+  '#reset_failed': {
+    'subject': 'Server down, hard reset not working',
+      'body': 'Dear Support Department, My customer ID is ***. My server with the IP <IP-ADDRESS> is offline. I tried a soft reset and a hard reset, but the most recent boot time has not been updated. As stated in the customer control panel, I am asking you to investigate this and to bring my server back online as quickly as possible.'
+  },
+  '#request_kvm': {
+    'subject': 'Request for a KVM',
+    'body': 'Dear Support Department, My customer ID is ***. I require a KVMoIP for server SERVER-IP for one day. I am aware that this will cost €27.00. Please attach it as quickly as possible.'
+  },
+  '#request_ts': {
+    'subject': 'Technical support for SERVER-IP',
+      'body': 'Dear Support Department, My customer ID is ***  I require technical support for server SERVER-IP. The server does not come back online after a reboot, but the most recent boot time has been updated. I am aware that this solution will cost €33.00 per 15 minutes of work time or part thereof. More details regarding my server: Root/administrator password: Information on what could cause this: Please perform the support as quickly as possible.',
+  },
+  '#request_cpanel': {
+	'subject': 'Order a cPanel License',
+	'body': 'Dear Support Department, My customer ID is ***. I would like to order a cPanel license for server SERVER-IP. The fees depend on the number of accounts. I will need NUMBER accounts. Please provide me with an information about the fees as quickly as possible.',
+  },
+  '#request_cpanel_vps': {
+		'subject': 'Order a cPanel License',
+		'body': 'Dear Support Department, My customer ID is ***. I would like to order a cPanel license for server SERVER-IP. The fees depend on the number of accounts. I will need NUMBER accounts. Please provide me with an information about the fees as quickly as possible.',
+	  },
+  '#request_plesk': {
+		'subject': 'Request for a Plesk license',
+		'body': 'Dear Support Department, My customer ID is ***. I would like to order a Plesk license for server SERVER-IP. Please provide me with an information about the available editions and the fees as quickly as possible.',
+  },
+  '#request_vps_start': {
+	    'subject': 'Request for a manual VPS reboot',
+	    'body': 'Dear Support Department, My customer ID is ***. I require a manual reboot for VPS SERVER-IP since a reboot within the customer control panel is currently not possible. Please perform the manual reboot as quickly as possible.'
+  },
+  '#noreboot': {
+	    'subject': 'Request for a manual server reboot',
+	    'body': 'Dear Support Department, My customer ID is ***. I require a manual reboot for the server ###custom### since this server has neither the possibility of a hard reset nor a soft reset. Please perform the manual reboot as quickly as possible.'
+  },
+	'#request_storage_addon': {
+		'subject': 'Request for a Storage Extension',
+		'body': 'Dear Support Department, My customer ID is ***. I would like to order the Storage Extension for server ###custom###. Please provide me with information about the process and the fees as quickly as possible.',
+	}
+}
